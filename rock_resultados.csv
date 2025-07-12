@@ -1,0 +1,901 @@
+,artista,genero,tipo,nombre,anio_lanzamiento,id
+0,Raimon,rock,track,T'he Conegut Sempre Igual,2000,2DcZQZM2vA0rWEpKFTcwQs
+1,Lax'n'Busto,rock,track,Per Què Ser Gran ?,2000,4CtS3MVfmeKq31v4qUvn01
+2,Raimon,rock,track,Quan Plau a Déu,2000,0HHGqt4EHoUlm7BwhCytf2
+3,Oskorri,rock,track,Amak Ezkondu Ninduen,2000,6sR4FSzbMlKtZrNELf6sX2
+4,Fes-te Fotre,rock,track,Torno a Ser Jo,2000,66VqLrzrkAF04aIFe4OjHf
+5,Andrés Calamaro,rock,track,Jugar con fuego,2000,2Y4AW6LTpQSEpgo01uKpg6
+6,Raimon,rock,track,"D'un Temps, D'un País",2000,06qNwpyQxsIA11mk8AOJTB
+7,Lax'n'Busto,rock,track,Pero Mai Tu,2000,0fbyOCf5Hn0pPML3OCtuiX
+8,Bars,rock,track,Tu T'ho Has Buscat,2000,2p3u4dnaQTvmlDU4XZpubh
+9,Raimon,rock,track,Cançó de Les Mans,2000,1wXxKXSzKUHa5bwYpaxh4i
+10,Bide Ertzean,rock,track,Lilian,2000,0jl8fu8nnH23dSP4qwF37O
+11,Raimon,rock,track,Parlant-me de Tu,2000,624MeTbPYd7GiIIjst0raA
+12,"Quico El Célio, El Noi I El Mut De Ferreries",rock,track,Pepeta La Paisana,2000,1qxk9A4df8OpyllLHmYLyQ
+13,Joan Isaac,rock,track,Il Momento per Lei,2000,4KLEUWf9Sm7p1KdV2pGqc9
+14,La Gran Banda,rock,track,El Eco de Mi Canto,2000,7iC2EH3OuGzxwJid81AFti
+15,Insanity Wave,rock,track,Take Me There,2000,3QcQwQVWSJCmcq2i25a0ZX
+16,Ruxe Ruxe,rock,track,Land Rover,2000,7rsStQ4kREV4AyZrdspd8a
+17,Ayub Bachchu,rock,track,Jonmohin Nokkhotro,2000,4xhQ7p0Fm8BOYihxigh0bh
+18,Riesgo de Contagio,rock,track,Un Nuevo Juguete - En Vivo,2000,6twe1C7mVYfpeKj24Ct4C6
+19,Tommy Bolin,rock,track,I Fell in Love - Live,2000,56LLKgCQMZdzDjC1Sx6wn5
+20,Johnnie Ray,rock,track,Hands Across the Table,2000,5DIWx05oDn878SiRLqB6bH
+21,Freddy Cannon,rock,track,Palisades Park,2000,7zQZ3WKge5SjuZ4hdFKIk0
+22,Testeagles,rock,track,B-Sting - Live,2000,2Cab4QI0M01qrDu5psplbH
+23,ТЕЛЬНЮК: Сестри,rock,track,Скрипка - Live,2000,31psXRFumgnCT5g0CFvBzI
+24,Jamrud,rock,track,Otak Kotor,2000,3qkv7Y8AWGBIjuATJ7QmNf
+25,Gerardo Enciso,rock,track,Tarará,2000,1rhyS3utrgrWG19yadPGEW
+26,Емил Димитров,rock,track,"Сбогом, Мария",2000,4lPc3fes9pmJLGzey2BKkF
+27,Joanie Leeds,rock,track,Miami,2000,49EDfGtHtfInSG07BLed0T
+28,Snog,rock,track,The Crumbling Land,2000,4rqqUA6BxuppYzJsCE7xVL
+29,Curved Air,rock,track,"Propositions - Live, The Town And Country Club 2, London, 23 September 1990",2000,6eCsnqxzk1UJHhsnveqZwl
+30,Daniel Johnston,rock,track,Tuesday Waltz,2000,660SlzxaXV9GiR9SMpxTYs
+31,Derrick Morgan,rock,track,Feel so Fine,2000,3eJeyjmRnIxjtXAuwsC8yr
+32,The Buckaroos,rock,track,Habanero Hot Sauce Queen,2000,35ArQEjQXs9o7bRi114oYA
+33,Lazy Bone,rock,track,모르겠어요 I Don't Know,2000,19qosa5GeK95DHMRIv0NnR
+34,Lack Of Limits,rock,track,Black 'n' Tans - Live,2000,4PNczvJvrcdgdEfoNdG1Qy
+35,Kind Of Blue,rock,track,The Great Big Feeling,2000,0n5uEHIMIfm0flgVxgEd3f
+36,Thom Shepherd,rock,track,Bye George,2000,42bfCXzhNaP8merNR2RZDF
+37,Giorgio Gaber,rock,track,Grazie Tante,2000,5xLGsk49S0ICOVUB57jU8G
+38,Oskorri,rock,track,Galai bat etorri zait - Instrumental,2000,3oWwowbey7PslfVfJXH9Ri
+39,Mark Wynter,rock,track,Please Come Back To Me,2000,2A7fjCP72fWgWM8a4EKS9W
+40,Renato Borghetti,rock,track,Prenda Minha,2000,7kEQOPHTu4uzBGhyxgR36N
+41,Bacotexo,rock,track,As de Corazóis,2000,5CvUmloAQTgBmAd2WhkLhN
+42,Mickey Gilley,rock,track,I'll Make It All Up To You,2000,4l2nHPTFzI7S0CUf9VnwEv
+43,Quilapayún,rock,track,Soy del Pueblo,2000,42FscZpe7emsgfAgLmHo9v
+44,Red House,rock,track,Big Brown Latin Eyes,2000,7IjV6YD075JB5jUeIhtGAS
+45,Los João,rock,track,Corazón Espinado,2000,6GDcowuUPoL0aIotU4wC3u
+46,Cloroform,rock,track,Can't Hold This,2000,6UoLC3cLpd8PsoaFII9KKp
+47,Владимир Высоцкий,rock,track,Злая мачеха у Маши…,2000,6nN12sR3fBM5LXq2ucu6Mh
+48,Okay Temiz,rock,track,High Fly,2000,3rPFLkj1JsnJRSzY8yMVcf
+49,Repe,rock,track,La Mano,2000,4JY9zmLKZT5mbuhvvDrh5b
+50,Asa Brebner,rock,track,Unhappy Birthday Girl,2000,0Uwi5uP6UYBhjBVBDJi3rH
+51,The Searchers,rock,track,You Can't Lie to a Liar,2000,2ssUCraVBNZEFB0TghN00N
+52,Bob Karwin,rock,track,Ignorance,2000,7IvDCCR4fYIKlQOgNri5Eo
+53,Plastiko,rock,track,Que Se Sienta,2000,4fr05zoQUgz2VUL3Ijpq3n
+54,Atrocity,rock,track,Taste of Sin - Slam Bam Remix,2000,5fW7oPRNuxEvEsZwOka3yN
+55,Monna Bell,rock,track,¿Qué haces tú? (Fox-Swing) - Remastered 2015,2000,7HrW2OaxlD9tAX3NRykgg0
+56,Autour de Lucie,rock,track,Chanson de l'arbre,2000,2pxHpWelqg7FC9UtaJOUdG
+57,John Holt,rock,track,We Are Grooving Together,2000,4UEexI5WdcaBgCmEIgOQux
+58,Isis,rock,track,Around a Roundabout,2000,3iGnDo4GmIrocMgbW65uyS
+59,Birth Control,rock,track,The Work Is Done,2000,1hE3z8PX7Bf0Jc1qb4sofd
+60,Miquel Pujadó,rock,track,Somriures Que Mosseguen,2000,42EhhG8Bzqom639UvpzAzC
+61,Dan Toren,rock,track,אמיתי וטעים,2000,4J7H2FoTXp3Z0s6ujeaBOE
+62,John Wetton,rock,track,Only Time Will Tell - Live,2000,6dcvYQ68vmJRBChRHlk5KU
+63,Delinquentes,rock,track,Tribos,2000,66esbuZdNCgmRtDJ7KLVk0
+64,Tommy Steele,rock,track,Hiawatha,2000,2T8S8qMehDS3v5iAAVGoDC
+65,Carptree,rock,track,Together alive,2000,34x11H6xH0LiyGTUs3j3GZ
+66,Владимир Высоцкий,rock,track,Цыганка с картами…,2000,5VgCCv8t3K77vukCFMLv7s
+67,Red Cardell,rock,track,Péplum,2000,3VZhfc5JvUrKorDXxO1VY9
+68,Zvuki Mu,rock,track,Бронепоезд,2000,26iCg39bfwhX4fu1QTr2wx
+69,Sol D' Menta,rock,track,Perro Callejero,2000,0CYl4r1RVFsulsOABB6hXr
+70,Derrick Morgan,rock,track,Travel On,2000,0n111DRgGW5Pu0pRw4uPqD
+71,The Diamonds,rock,track,One and Only,2000,2xnDJ5mn9RqeewSvTfLKt6
+72,Albert Hammond,rock,track,The Free Electric Band,2000,4J88ldoeHiPMaFqjIH6OKA
+73,Marcio Mello,rock,track,Tonelada de amor,2000,1E1fpKSxtrenGoAH60m1n9
+74,Boo!,rock,track,Blêrrie Hunter - 4,2000,26sCW6T8ZxMHN7mmmJYwB8
+75,Joe Bennett,rock,track,Last Night I Dreamed Of New Orleans,2000,1pyABWGTiT5kCkOKhnCEE7
+76,Birth Control,rock,track,Jungle City,2000,1IKUStVKbUBT5ZlNfaA0BV
+77,Too Tall Jones,rock,track,I Died in Rock and Roll,2000,5OiM6aV2FdPj9uMhibZojP
+78,Liaison,rock,track,Le gout la vie,2000,4yp4Xuv2I0zMSriL1eAKSX
+79,Snog,rock,track,Real Estate Man-1 - Ubin Offer Affordable Solutions,2000,31q1MHCW6NWWwi2Z6qVMlL
+80,МультFильмы,rock,track,StereoСигнал (ET Mix),2000,34l3lqLMMAn10YHchJaWSV
+81,Sugar Minott,rock,track,What Goes Around Comes Around,2000,69HlOUQuqtzjvzdXvGEAxN
+82,Siakol,rock,track,Wala - Minus One,2000,2ipyX0RrOEgOpyBkj3ZBZq
+83,Bacotexo,rock,track,Sin Munición,2000,64VjVckMpXk5uUtZzoKPFw
+84,Spencer P. Jones,rock,track,What's Got Into Him,2000,29MGNhZNCyopyFETfYRwJs
+85,Владимир Высоцкий,rock,track,Романс миссис Ребус,2000,6GHNQ0oKKUhjAJ1sPHHMg1
+86,Danny & The Juniors,rock,track,O Holy Night,2000,7eXn7KGvqQefwFC71sUBaL
+87,Delinquentes,rock,track,Venerando,2000,6Wu5E736WweAcRkw7DpG1K
+88,The Buckaroos,rock,track,Breakin' up the House - Bonus Track,2000,6Pc7jtILB9aOLbQ7jIA6D4
+89,Rick Riso,rock,track,See The Light,2000,3ZmZnNXAHfTygexA9gzm86
+90,George Jones,rock,track,We'll Understand It,2000,6rwMzKkqqeytNb9qL3AcGd
+91,Bill Justis,rock,track,Raunchy,2000,44MYSEr4UhFBqkJX8oLtjR
+92,Brady Rymer and the Little Band That Could,rock,track,Sleepy Song,2000,3XRyt7FLH0B3mEZ3fSRYMz
+93,Steevi Jaimz,rock,track,Talk of the Town,2000,6iDuYP8RNoCzUxa89PuQTE
+94,Владимир Высоцкий,rock,track,Нас не нужно жалеть,2000,3gWhK7C8oVXMwU2RNib7jN
+95,Quarkspace,rock,track,Bonzo's GSB,2000,4sEbNo3CYihj6mqQUMe4jc
+96,Jorge Calleja,rock,track,En ese camino empedrado: III. …y pare a esa mula,2000,2mai8PWqcv3LoclxX5rF7g
+97,Freddy Cannon,rock,track,Muskrat Ramble,2000,5anGCVibixQHQFPix9xFbU
+98,Steve Archer,rock,track,White Christmas,2000,7zs2NfFqqRm1G4UZW5ghH0
+99,Karina,rock,track,"En un Mundo Nuevo - De : ""En un Mundo Nuevo - 1972",2000,7EjKtRMUWQvYPdRiW1ILtX
+100,The Woggles,rock,track,V.I.P.,2000,39Yf65oWnL4ZIJsc92c054
+101,Kirka,rock,track,Tätä Päivää Tahdon Rakastaa,2000,4jMA4GBr2wHnMQ0y2YsfFX
+102,Jan & Dean,rock,track,Jennie Lee,2000,0GYRy9ufHvGN3Cxlu6ZEOh
+103,Emile Ford & The Checkmates,rock,track,Your Nose Is Gonna Grow,2000,5rGgu43zIXnmKOtRU04c4C
+104,Raimon,rock,track,Quan Jo Vaig Nàixer,2000,6jcGPoNqhAYZBkrq52WnWA
+105,Kentucky Boys,rock,track,Pretty Pearly,2000,4lnrvbKRl1JZKntX7MlLme
+106,Uek,rock,track,Intuicion-betetik bestera,2000,3xNZhUm5YJvxknqFFuUGK7
+107,Metro,rock,track,Lóg a falon egy fekete kard,2000,1FiM5UDe5dT1dYibVee0VV
+108,The Sensations,rock,track,Cold Cold Shoulder,2000,1swkoiUEAmxEoUcgoZOBFB
+109,Kirka,rock,track,Pikku Elvis,2000,6EMrdOfjGeVbKywqwYa7Rk
+110,Quarkspace,rock,track,D.O.B.H. #1,2000,0XqqGbeZCIZy7nvCx81UZM
+111,Wry,rock,track,Ultra-Sense: Take a Ride on My Little Bike,2000,6Evohn5Gyx34ds5yh5dgsi
+112,Sugar Minott,rock,track,Just Dub,2000,5VwWk7Dg5JxPpx5fNap4U1
+113,Краденое Солнце,rock,track,Obida,2000,5CPmilOHJ9CoXl6mtDLVI7
+114,Dorsey Burnette,rock,track,Tall Oak Tree,2000,2xG7NichH07XKH0Dcor7le
+115,The Sandmen,rock,track,World Full of Dreams,2000,1FiJekaSSP4uoOwj5v1YC5
+116,Lack Of Limits,rock,track,When the Clocks Rreturn to Zero - Live,2000,7BqhcmK3ndv8cMUK5fq5pQ
+117,NLF3,rock,track,2.1,2000,5DPXi1c8Ll4xnbuffaFBQm
+118,Thieves' Kitchen,rock,track,Time,2000,6dXkLKGq31nnZs9sKPkYRT
+119,Mc Mabon,rock,track,NoOneNeedsToKnow,2000,4OdZEB0AVwokw9H1tbvBve
+120,Mechanics,rock,track,Dead Man,2000,6GvaHi6Z6RTyWgy4s7Qjl2
+121,The Spotnicks,rock,track,The Rocket Man,2000,74CU6d4Xoj5pWlWpVpRruL
+122,Miquel Pujadó,rock,track,Aquest Segle Em Matarà,2000,68G80tOft60wbk7jMWJ0sk
+123,Cliff Richard & The Shadows,rock,track,Lamp Of Love,2000,5joYUSlNIzcaotz1TS32Ps
+124,Laura Canoura,rock,track,El Día Que Me Quieras - En Vivo,2000,3lvaLhDxjeIRmf5mt1ziOP
+125,Rantés,rock,track,Eras Tú,2000,462891OQMEvIUP9eEl18Kc
+126,Kostarev Group,rock,track,Vegetarian,2000,5deILFSbXdwFsTMhnTOXr8
+127,Buck Owens,rock,track,Take Me Back Again,2000,2uOdUlz36nM2qH9FPo5e3I
+128,Ato Abusivo,rock,track,Retirantes,2000,3Jqvd7qBRxXM0uRXory2Eh
+129,Owen Gray,rock,track,Worry and Cry,2000,4D0tGtUwNfcSbW8nzpu8Q8
+130,Max Lorentz,rock,track,Too Much Of A Good Thing (Ain't Enough For Me),2000,7DKpQwykbfTzNbSdwNAZPF
+131,The Buckaroos,rock,track,Soul Groove,2000,6Ac8vC5XJph7sCzgpvlpkm
+132,Amersham,rock,track,Snow in Africa,2000,7FTsWdutmSYcr1ks5RfaQA
+133,Kansas,rock,track,Dust in the Wind,2000,4vZsa4R4Zor3HR8a5DKAaV
+134,НОМ,rock,track,"НИИ ""Парсек"" - 2",2000,6kxGzLGOwKYaxDlwzAFezN
+135,Ho-Hum,rock,track,Take It Home,2000,7dhSVIVmKAz9vd9SRHmERK
+136,Jet Boys,rock,track,Let Us Go,2000,5ajzzVb0rPN5bNC6xmBHo5
+137,Bobby Darin,rock,track,"Judy, Don't Be Moody",2000,3LRbadpCqCwyHZhqm14KuA
+138,Jan Smit,rock,track,Ihr Kinderlein Kommet,2000,2NBX2lIAmZdzNqLN8WM3Hq
+139,Gilad Kahana,rock,track,מלחמה וחזון,2000,1SYceipPNrEzuKlmg13Co2
+140,Johnny Preston,rock,track,The Twist,2000,7p6sXPNXcZCtYII8BXbUSa
+141,Mark Wynter,rock,track,Because of You,2000,6loU3pdTKmwJl0daRFIFxZ
+142,Steve Goodie,rock,track,Technical Writer,2000,3B6MuXwoAKR7LONBsaY1Fw
+143,Ralph,rock,track,Jazz Girl,2000,1qGngh4aBCxBWU95mQL996
+144,Jan & Dean,rock,track,A Sunday Kind of Love,2000,3DJTo4i5ojSCHxWZTnZ8Dn
+145,Bobby Rydell,rock,track,Soldier Boy,2000,1Nb0Wgw4NGnj00aSlhRBPP
+146,NLF3,rock,track,1.4,2000,40yqQMKqVetqQrRtQCEzMu
+147,The Studebakers,rock,track,Senor Sandman,2000,7BAcO8RN7sxQkSVSsQymGk
+148,Megas,rock,track,Vals í D-dúr,2000,2CUN2iNLmtx23ZM8jFK24N
+149,Veljo Tormis,rock,track,Days of Outlawry: II. Brothers,2000,5r9NJQ0qBYyntEbuyFMzSp
+150,Okay Temiz,rock,track,Orient,2000,3nRRP7OqgD9WRkhc6VKmJa
+151,Владимир Высоцкий,rock,track,На возраст молодой мой не смотри…,2000,05WRiZNl9f8hAjWfNRMcga
+152,Throwing Toasters,rock,track,(The Ballad Of) Chang Shao Pang,2000,2G2020kBsrUV05keGhhfma
+153,Presser Gabor,rock,track,Örökség,2000,6T4ZD2pKaWY9mVUEM9kNKQ
+154,Throwing Toasters,rock,track,New Hampshire,2000,4pB4oLZScK8aOQdNMFkg4i
+155,Sheena Easton,rock,track,Best Of My Love,2000,3zLfNgTSNPopfFCVDPkx3O
+156,Sonny Burgess,rock,track,Don't Let Me Hang Around,2000,5j6XbaO128SirNJJ5NapUF
+157,Derrick Morgan,rock,track,We'll Meet,2000,7eg386siBni23z8sgK7DVl
+158,Died Pretty,rock,track,Misunderstood,2000,56NQ3s84vuneAzqd2vQ4Rs
+159,Thieves' Kitchen,rock,track,T.A.N.U.S.,2000,4AOM4Qej6psUZsVOfFIiCT
+160,Giorgio Gaber,rock,track,Amore Mio,2000,5e83laA6QSw6KClbUdQHad
+161,Ike Turner,rock,track,Why Should I Keep Trying,2000,3qYLizZzRITYhdaLIDO3wm
+162,Screamfeeder,rock,track,Oh My God It's Full of Stars,2000,5WdTgvGwCRb5V7hVzNWwFe
+163,Sanchez,rock,track,Thinking About You,2000,2KjHzvERrHZrFta00LGWeB
+164,Rantés,rock,track,Gaviota,2000,4kXw4LTI3MNUNERs7Jsx7B
+165,Paul Fenton,rock,track,T-Bone Walker Blues,2000,4stgcpKqSSUVwnDOzNJJ4R
+166,Vrooom,rock,track,Promene,2000,4La5k1frH5icxff8LJycPa
+167,Matuto Moderno,rock,track,Martinha E O Diabo Loiro,2000,2PEOpDuLOx2BSPhYyLlF0j
+168,Владимир Высоцкий,rock,track,Мне бы памятник при жизни полагается по чину…,2000,4tHtHADfpjt7ti7dfAMRzs
+169,Raimon,rock,track,Perquè Ningú No Em Contarà Els Seus Somnis,2000,5qPUHpJdnBB7xJ1BfFChcq
+170,Eduardo Araujo,rock,track,Não Posso Dizer Adeus,2000,5vx53eXFyGLSrT5OOCzdiD
+171,Onar,rock,track,I Balada Tou Nerou Tis Thalassas - Instrumental,2000,1yKeOIfExNuLrrrkf9LO5G
+172,Сергей Маврин,rock,track,Поезд,2000,2nUSUd5ZAuUelyol7JKkMZ
+173,Steve Forbert,rock,track,Goodnight Irene,2000,1NTvcr4AXuVcMPK2J0MGK6
+174,Riesgo de Contagio,rock,track,Martínez - En Vivo,2000,6de1ui8dqK4PBFE8zmSqa0
+175,Luís Represas,rock,track,Libre,2000,2YOYqlqv01Ca5VyUzAoluw
+176,Jerry Kennedy,rock,track,One Night,2000,0NxDZT2Fi6ho98GzLKAN2f
+177,Jan & Dean,rock,track,Palisades Park,2000,7zujkA2uSeVZRF2jvQw9ko
+178,Código Zero,rock,track,Adicto de Tu Voz,2000,0EKcTC6Ut6bnqqqC0eXW7a
+179,Mechanics,rock,track,Dead Man,2000,4oDGaRC40mQkO7jindTJgW
+180,Remorse,rock,track,Árnyék követ,2000,6lAUDQyt1PCpvQNoBHtljL
+181,Billy Wallace,rock,track,Dog Hauled Around,2000,0EUjT7iGT9UQXP89rmmOhD
+182,The Buckaroos,rock,track,Breakin' up the House - Bonus Track,2000,6Pc7jtILB9aOLbQ7jIA6D4
+183,Bacotexo,rock,track,Submarín Nuclear,2000,0l6V7zP1f5xCHELX78lKYh
+184,Jet Boys,rock,track,Surfin J.A.P.,2000,1ypG4OlJpwhScMvYZoKnUu
+185,El Templo,rock,track,Erosiones,2000,2pMuSGih9rV5WBcmyYueUR
+186,Tequila Baby,rock,track,Nós 3 - Ao Vivo,2000,1KAp4FALymgPlLMALYv1bj
+187,Miquel Pujadó,rock,track,"Gràcies, Prenc Nota",2000,2lJCSJ6HbjbCkCeqgeTLPV
+188,The Shirelles,rock,track,Soldier Boy,2000,2NGrBTtrEQw0UZO5gOFZ4l
+189,Mickey Gilley,rock,track,It's Just A Matter Of Making Up My Mind,2000,0iFgNKzTNLfAWH5AKn8nG1
+190,Ike & Tina Turner,rock,track,I Idolize You,2000,3w39deB995fDCGIDZPJoU2
+191,Владимир Высоцкий,rock,track,Про Дон Жуана,2000,4ft8mztHhAerTeOZ8FECNP
+192,Jonathan Edwards,rock,track,It's Magic,2000,16dR1WI01GvekuwTqYv0Pv
+193,Steve Archer,rock,track,White Christmas,2000,7zs2NfFqqRm1G4UZW5ghH0
+194,Eduardo Araujo,rock,track,Golpe Do Bau,2000,3QQqOrA1Z80NULqeKtNIUu
+195,The Groove Hogs,rock,track,Same Old Story,2000,7l17q9n2CsTfNH4Fb18uSk
+196,Björgvin Halldórsson,rock,track,Mamma,2000,1MNDzUFfSohAt05oGDu55B
+197,Ayub Bachchu,rock,track,Durer Tomake,2000,7DWQhX780CLhVKJGCiXcvZ
+198,Steevi Jaimz,rock,track,Talk of the Town,2000,6iDuYP8RNoCzUxa89PuQTE
+199,Jan & Dean,rock,track,We Go Together,2000,2sMGhhWcdN3UavY5dArlXr
+200,Judy Collins,rock,track,Little Brown Dog,2000,5sWXC8bUB2xCcASrnaBFEW
+201,Wayne Faust,rock,track,Winnebago,2000,69ztpyG8mTLEmkO4Jj6iAZ
+202,The Oak Ridge Boys,rock,track,In The Shelter Of His Arms,2000,1pcpfUph67hCIzBs1SrDrx
+203,Ghettobillies,rock,track,Plumber's Lament,2000,7jSbfaKhUr6pkmuukfmATR
+204,麦田守望者,rock,track,Please,2000,5PdiWwLpUDbnNRbzanZTD2
+205,HLH flokkurinn,rock,track,"Nei, nei, ekki um jólin",2000,1qxEC9Ci9ZXzfj20OcgtbZ
+206,Juan Hernández y Su Banda de Blues,rock,track,Los Legajos,2000,0Yy2EYXcJeyGXWCdlsgupd
+207,John Wetton,rock,track,Battle Lines - Live,2000,0s5Xp8Pspab0CwKkMKTMjx
+208,Throwing Toasters,rock,track,Intimate Crowd,2000,7yU4ikGwUXB5z18JbVYyI6
+209,Baraflokkurinn,rock,track,So long,2000,4pijeMxS4Xti4uARetr7fl
+210,Rebecca St. James,rock,track,A Cradle Prayer,2000,5Y8KZhRA9PwFq2upoe1pwL
+211,Insanity Wave,rock,track,Tonight,2000,5itVhAXJ6Fw1NQiMbMNuA0
+212,Quilapayún,rock,track,Seis Canciones Contingentes. La Merluza,2000,5B6r9xdmDB5COyXExyBGYr
+213,Mínus,rock,track,Modern Haircuts,2000,5LmQH0rQj1xRWsSVsw6cpi
+214,Onar,rock,track,Kratisa Kati Gia Mena,2000,4KhHcPXrfHohnnITLeR0j7
+215,Delirium,rock,track,Loucamente,2000,4Xk5zlrP0y3buzQuMciZn6
+216,Kemopetrol,rock,track,Without listening,2000,5ygR3ez6o4EoRPWlt8p7gA
+217,Warren Smith,rock,track,Ubangi Stomp,2000,4lgbv94POmmVjrRIyWtRmr
+218,Juustopäät,rock,track,Tuulimieli,2000,6VHCYYocVzEZYHIIiwiCxZ
+219,Емил Димитров,rock,track,И между две целувки,2000,26QrB6LexZBTkumt9DmvLo
+220,Bernard Falaise,rock,track,L’alchimiste et l’enlumineur,2000,3J6M8yjNH1xicPAesCqsqB
+221,Renato Borghetti,rock,track,Porto Alegre,2000,12Z9fIIMy4eIpgAy69mBrT
+222,Laura Canoura,rock,track,Furiosa - En Vivo,2000,7M77a7jWLJJywghaVJj78W
+223,Snog,rock,track,State Rape (Beam Up Battle Cross Channel Traffic),2000,4bkMFTJafIlyIZMJKR7I2G
+224,Kirka,rock,track,Tätä Päivää Tahdon Rakastaa,2000,4jMA4GBr2wHnMQ0y2YsfFX
+225,Paul Fenton,rock,track,Midnight Train,2000,4hXKzi7pEbfeeA6w6tiNtn
+226,Ray Smith,rock,track,Willing And Ready,2000,0RsEKhPhTjIW374SjHBCyI
+227,Garybaldi,rock,track,Skizoid Blues,2000,3OS4WhRyWOUOhABZfBefpb
+228,LauRa 2000,rock,track,U Ljubav Se Zaklinjem,2000,3eLwjKbicF19worMi1BioU
+229,The Searchers,rock,track,All My Sorrows - Mono Version,2000,6WleoMWlG0Bz3i9eMs30Ir
+230,Alexandru Andries,rock,track,Exercițiu,2000,2ayMUzQb9R1IsyR13PFGTy
+231,John Holt,rock,track,Hooligans Change Your Style,2000,4coEZ9aEZ5Eeup92XKho9V
+232,Insanity Wave,rock,track,Other People's Game,2000,1rgQb6PZCmkwPofzEFLHVV
+233,Zabrinski,rock,track,Melody Made,2000,7uccVNc55Ve3vvc6i7qwCq
+234,Raimon,rock,track,Quatre Rius de Sang - En Directe,2000,5Vcmcoe2bfJ4i4XKnb7Cfi
+235,Jan Smit,rock,track,"Herbei, O Ihr Gläubigen",2000,1lNpFT8Ilv6V6PcKQBAKZQ
+236,Bobby Rydell,rock,track,We Got Love,2000,4iSnzTEGrirH6al4eaZCZ7
+237,Владимир Высоцкий,rock,track,Мы с мастером по велоспорту Галею…,2000,71LghSEUUaeVOtSbTU04Ks
+238,Bernard Falaise,rock,track,Talon d’Achille,2000,1t9u6cloN0pT4GwPTM56HS
+239,Jamrud,rock,track,Putri,2000,6Vp2G18TXdyqx5yo0oiHAV
+240,Bikini,rock,track,"Egy korsó, egy pohár (remix)",2000,17IH2n9W3Rsb2VUebreegd
+241,Богдана Карадочева,rock,track,Лунапарк,2000,0sLaBxmRt2Z4TCBrZIuQs1
+242,Trashcan Darlings,rock,track,Barbed Wire Boogie,2000,4EmlW7bSDyTJ52b24xHio9
+243,Bobby Darin,rock,track,"Judy, Don't Be Moody",2000,3LRbadpCqCwyHZhqm14KuA
+244,Quilapayún,rock,track,"Caleuche, Parte I",2000,5W6ox7TnfY3nXa0OBf8IgG
+245,Prydein,rock,track,Wild Mountain Thyme,2000,51iCfEQzJeRa40shl68eMA
+246,Tommy Steele,rock,track,I Puts The Lightie On,2000,65Rf7kzOY4xIol6GjepeyF
+247,Paul Revere & The Raiders,rock,track,Kicks - Rerecorded,2000,6Gjq8BbTaDoZstHKzDv9uu
+248,Johnny & The Hurricanes,rock,track,The Hungry Eye,2000,6rVxLXyut8QaZBlxSrcC98
+249,Miquel Pujadó,rock,track,Dins el Ventre Dels Estats,2000,5q1IQTIvbjyODybFOhSwSa
+250,Slim Harpo,rock,track,Something Inside Me,2000,67lg7fCDQr6B1d3xH2hWWW
+251,Riesgo de Contagio,rock,track,Fz 10 - En Vivo,2000,0QNw4918Zas7hwEqBlb5e8
+252,John Holt,rock,track,Anymore,2000,1vmHdrJWzNC7B4CbOU30vO
+253,Bacotexo,rock,track,Árboles D'inverno,2000,2VNb7ndMm0pgC5EB8roBo3
+254,Whiteheart,rock,track,Guiding Light,2000,3z0wwRYdiHx2nh9qrfqQ7i
+255,Asa Brebner,rock,track,Don't Ever Lose A Memory,2000,0IGOijvN2CduQPMXAgxKMT
+256,Краденое Солнце,rock,track,Obida,2000,5CPmilOHJ9CoXl6mtDLVI7
+257,Beres Hammond,rock,track,Comin' at you,2000,4ERtKZGiQVplCjOLGNw4tC
+258,LauRa 2000,rock,track,"O Ne, Ne, Ne",2000,7k9xroJmUSM9GNhN6LppwL
+259,Neca Falk,rock,track,Bela pravljica - Aranžma Gregorja Strniše,2000,7FC2S1wz4ORhRrbroriPNF
+260,National Dust,rock,track,Turnaround,2000,4xiOUIN34PlqabGcBoLKOl
+261,Figaga,rock,track,Aunte Caru Labu,2000,2zVtwT28DV9Q7TQWnHi50o
+262,Sanchez,rock,track,Thinking About You,2000,2KjHzvERrHZrFta00LGWeB
+263,Salem Hill,rock,track,Riding the Fence,2000,2vi2WJzcKGYQr7gOEJKewp
+264,Jerry Lee Lewis,rock,track,Hound Dog,2000,1653VxMKb4KFJ7AWWiraUE
+265,Died Pretty,rock,track,That Look Before,2000,2udI9BaAWbp1KHX3m9jTfC
+266,Pateando al Perro,rock,track,Como Trigales al Viento,2000,4sunVky6gjNTGsI8wm4EDI
+267,Vibracathedral Orchestra,rock,track,untitled 7,2000,49Ga4fO5VKv9nPseIYUjhz
+268,Jan Smit,rock,track,Ihr Kinderlein Kommet,2000,2NBX2lIAmZdzNqLN8WM3Hq
+269,Dan Toren,rock,track,כוכב מאיר,2000,7u5ekYjhZl4GchQMSKiuuc
+270,The Diamonds,rock,track,Chick-Lets (Don't Let Me Down),2000,3In8kmcMDSwFWgONieuiIR
+271,Marty Wilde,rock,track,Hide And Seek,2000,3NoWWFIwH8UV1f7eXjOgJA
+272,Altar Boys,rock,track,When You're a Rebel,2000,5kyQREirAfs4maSPT0TKDV
+273,The Sensations,rock,track,Sweet Cajun Honey,2000,2F8CxVGErFoJ3ga7jCJtjB
+274,John Wetton,rock,track,Martin Orford's Solo - Live,2000,1kJl6pxoK0JEZqiGj0uwmy
+275,Dave Barker,rock,track,Can U Hear,2000,6l1Smh3YIl4kPXnASLJnxW
+276,Eric Schwartz,rock,track,Dirty Laundry List,2000,2KLEDx6bNXQtzs4knrg9x8
+277,NLF3,rock,track,1.12,2000,6LfMigysjbVcwIDOUOjmWi
+278,The Searchers,rock,track,Bye Bye Johnny - Mono Version,2000,0Gb2xXvxhnmbnSvlcMLVdH
+279,Björgvin Halldórsson,rock,track,Glæddu jólagleði í þínu hjarta,2000,6HDnkBB1SccV2MZRLRNyiO
+280,Ashwin Batish,rock,track,Interview with Ashwin,2000,6pPpXikKtcz5dase3PmoGr
+281,Muzzarelas,rock,track,Festival - Ao Vivo Brasil 2000 FM,2000,5WiZ0dJGQH0ZwqahlLLbEB
+282,The Satyrs,rock,track,We Are One,2000,4m5DdC6CdmrjZTjkV3lBKJ
+283,Quruli,rock,track,Hakone Wonder [Wandervogel Remix],2000,7v6x1Ss2UvnPfcDJoKNlAh
+284,Dave Barker,rock,track,Jack Knife,2000,0bBDvWamFrOjrTu96o0xVw
+285,Raimon,rock,track,Cucuts de Rellotge,2000,1U2dCJqEEyOpiAm6kfJDCW
+286,Pleasurehorse,rock,track,Strawberry Azzus,2000,5Kgfip15KyHn7ZimZM1z2O
+287,Mickey Gilley,rock,track,It's Just A Matter Of Making Up My Mind,2000,0iFgNKzTNLfAWH5AKn8nG1
+288,Mel Tillis,rock,track,A Thousand Miles Ago,2000,5ug68jGeYdk7kTOtul0cja
+289,Blast Off,rock,track,To Be With You,2000,3zM6oJEP9jHPA3oIlG15Il
+290,Spahn Ranch,rock,track,Antibody - Conspiracy Mix,2000,4dhE7q1QmZlnyHFPbfz8j0
+291,Tupamaros,rock,track,Giostra immonda,2000,68cohPyc234NOc56zRHOJb
+292,Laura Canoura,rock,track,Como Nuestros Padres / Esencia - En Vivo,2000,6VVvPZJTmMKPFBhB3u6i06
+293,Termites,rock,track,I Balada Tou Vigion,2000,6dYGVG9NopCzP5qM3eCvRi
+294,Brenda Lee,rock,track,You've Got Me Crying Again,2000,2ubQtBPYSHqrdkwONxmgrJ
+295,Brenda Lee,rock,track,Valley Of Tears,2000,3LLto96lT0PlLD97vrGynK
+296,Raimon,rock,track,Nous Cants de Llibertat,2000,1gTYinLRVuhZBA1SwJZVPT
+297,Rick Wakeman,rock,track,Away in a Manger,2000,3jNiY9KpEB3emlFTTnqVfw
+298,Al Ferrier,rock,track,What Is This Thing Called Love,2000,2vGQgi5HA3h7IsRH2wtL1y
+299,Dan Peek,rock,track,Medley: Midnight/Joy/3 Kings,2000,7qJ14YvjxwJ53bg4VuvYLm
+300,Buitraker,rock,track,Bide berriak,2001,31wPq4SBXWv0nHSupfMEqd
+301,Txuma Murugarren,rock,track,Eskuizkribua,2001,3Qn1zHXP7LiZaqXRUZzBDx
+302,Duble Buble,rock,track,Urbi et Orbi,2001,6VWu0s689SbmJrZcpS4LbU
+303,Tomeu Penya,rock,track,S'al.lota Més Garrida del Món,2001,3JwPSd1Ik8ihLk9ZI6UfI6
+304,Al Tall,rock,track,Dansà,2001,5pDBUb9IbU0Xhqhsv44csw
+305,Los Llopis,rock,track,Doctor brujo (remastered),2001,0a7naSnMvxaR5a8rbXB344
+306,Figaga,rock,track,Masi Masi,2001,4Vb3m85g4LClc0ia6BAdik
+307,Kelly Mcguire,rock,track,If This Isnt Love,2001,4WJbL9YKxAs5ztUFKn64z6
+308,Ebiet G. Ade,rock,track,Tak Pernah Pupus Rinduku,2001,6llxgKI0SMXpfbu4Ty4WWM
+309,Charlie Monttana,rock,track,Buscándote,2001,0Hzev1pYq2nTmV8xPnjbpH
+310,Ebiet G. Ade,rock,track,Dimanakah Matahariku,2001,4IZ9Pe7G889aN6cWPVkqgA
+311,Charlie Monttana,rock,track,El Boogie de la Combi,2001,11XdRPRLzHwQy1WSnpr7DC
+312,Botellita De Jerez,rock,track,¿Te Gusta A Ti Ese Son?,2001,56qi25TZQB1f0IdIjNpECB
+313,Penacho,rock,track,La Bandera de la Paz,2001,5T5zKFGvXsP3FdcdOmOeYG
+314,Simple Kid,rock,track,The TwentySomething,2001,7BHyVKYrKI4ZJg95UDJ9w6
+315,Seek Six Sick,rock,track,Need To Blue,2001,14sIQmw9x2LtyUJqqfDcgR
+316,Greylevel,rock,track,Taken,2001,3eIgp0Ox7AVta0Cf3JXNBa
+317,Astromato,rock,track,Sem Saber,2001,3zP2RGuxCrUS7Cd1roAL74
+318,Danny & The Juniors,rock,track,At The Fair,2001,2DukAqv3WQK68iDYiR6YgQ
+319,IMODIUM,rock,track,WelcomeTo Shit,2001,6LoGkYeJMHBqu7XcTt4Af7
+320,Stephen Cummings,rock,track,Stellamare,2001,216FMlOywePjWC5PmNPzKJ
+321,Christian & the 2120´s,rock,track,Look to the Horizon,2001,1Gq55dfEmjVt5K9fmaScya
+322,Kill Hannah,rock,track,New York City Speed - 2001 Demo Version featuring Chris Holmes and Erin Gipson,2001,2ltPC8k3XVDIWY2JwYt1mY
+323,David T. Chastain,rock,track,Hats off to Angus and Malcolm,2001,3aYSrrtGvxaO97oYONprkd
+324,ZOEgirl,rock,track,Here And Now - Performance Track In Key Of Bb-C,2001,1VT4CdAUIzWH78HMYcSbLP
+325,Ronnie Self,rock,track,High On Life,2001,5hBNctCv1A4HSgikwMeycU
+326,Ghosting,rock,track,Seele,2001,1t0VVhns7Py6bSnSXcTlXl
+327,Los Muecas,rock,track,El Cachanilla,2001,3nJVaXLq12F3YbAjebxrAb
+328,Lenore Troia,rock,track,Shout,2001,6sH9YJsABbewSnzLJdk1oY
+329,Die Happy,rock,track,If,2001,3j20VaYMiLQwFf2lSf1XeP
+330,Bois de Gerião,rock,track,All the Lights,2001,3ygypO6yrGjkR537abNven
+331,Cymbelin,rock,track,MEZI MNOU A MEZI TEBOU,2001,2m55G91BLlo5SkUipPku7e
+332,Seek Six Sick,rock,track,I Hate Adidas - Live,2001,6YWo4Wjh1VGvx0CChDLIib
+333,Bobby Darin,rock,track,I Got Rhythm,2001,11hEwUIDs6Y4kvlFdi4P0L
+334,Slim Smith,rock,track,People Get Ready Do Rock Steady,2001,04K31nVzKjF1jYTuvjwD9o
+335,Epicure,rock,track,The System,2001,5EgqTMGy5JKRGMSnFMYarr
+336,THE YELLOW MONKEY,rock,track,Never Give Up,2001,1KqBNVdbeHiwD7BtOnkqWQ
+337,Arturo Meza,rock,track,Agua-Luz,2001,6R0d12cxDQOmv3JIwagjU3
+338,Lakis Papadopoulos,rock,track,Monahos Sto Agio Oros,2001,1pxmj2sYWNmHqVZVtDMHcj
+339,Frankie Laine,rock,track,Don't Blame The Child,2001,1wIKIQMUFP6DaeBmASYtxF
+340,Snakes In Paradise,rock,track,Play with Fire,2001,3j0esI1jt2VgJrp2r63aik
+341,1910 Fruitgum Company,rock,track,Indian Giver - Remastered,2001,3CfSuIBNEWktUgZAIy6Ux8
+342,Eduardo Mateo,rock,track,Introducción a la Libélula,2001,5U6jXOQlc4OJVTEkjbvcKV
+343,Ricky Skaggs,rock,track,The Reunion Song,2001,2S5jtqGFZjaNXF9ppvBfgx
+344,Ilan Chester,rock,track,la Vida Canta En Navidad,2001,1tbk9ZycAmXgAyVGPNJxIT
+345,Poor Genetic Material,rock,track,Secret Song,2001,1ig9iv29it3rslIeeeuvtT
+346,Ultrageno,rock,track,Raza Furia,2001,7KnLGeTK5E7u6y3A1az9wF
+347,Lobith,rock,track,Icebound,2001,6VAXkQoFhYfmu9nJTXuyB5
+348,Nei Van Soria,rock,track,Mantra,2001,0gKamOVj3ZmwPJMD1YHeIC
+349,Egó,rock,track,Vægan fékk hann dóm,2001,1t49ZvSQFTRPsvKjOknuPd
+350,The Cadillacs,rock,track,Zoom,2001,2JXfYia533I7VQOFWsrmqm
+351,Beatnik Turtle,rock,track,What We've Got,2001,4hRNFsAVQHAmFzHO4pKYuu
+352,The Four Postmen,rock,track,I Got My Eye On You,2001,0xhhGnHd9lflUknqN8599P
+353,Sahara Hotnights,rock,track,Down and Out,2001,0swHVZlJciTjqMlTVCGgsV
+354,M.ILL.ION,rock,track,90-60-90 (Unplugged),2001,3MkOpRRo8t7ZvDdrm14dTC
+355,Разные Люди,rock,track,"Субмарина (Live USA, Jan 28 2001)",2001,1YJW05M6kzTfaGEjKHHpYo
+356,Dash Rip Rock,rock,track,Opelousas Sostain,2001,1V4BPUAHhMPFZR1o2eIMa3
+357,Novi Fosili,rock,track,Kuća Puna Sreće,2001,6YXo8tQDTmA4EIuFY8nXYi
+358,Va-Bank,rock,track,Не бросай,2001,5y8eAeW17OzqGedwxgABDX
+359,Arsen Dedić,rock,track,Rođena Za Mene,2001,4sHHLwuutRhOtw7vXzztme
+360,Pat James,rock,track,A Honkytonkin' Song,2001,1D0MK8l9ju348xQ2TCNHAQ
+361,Havana Black,rock,track,Night-Time - 2001 Digital Remaster;,2001,1KdYsw8hMg1BwWNqLZHoKE
+362,Gideon Smith and the Dixie Damned,rock,track,Hello Cigarette Girl,2001,4rehg6LU9TvhSWf92B8DP3
+363,Bruce Roberts,rock,track,We're Goin' to Texas,2001,2FIeQnCj6hmAqh9oJ9jzyb
+364,Ghosting,rock,track,Ricky's Hand,2001,7BQEZI2KZHPlvqH6oXbPCl
+365,The Real Kids,rock,track,She got everything,2001,2ajnbCl6njXXl2aBJjltQL
+366,B.B. King,rock,track,On My Word of Honor,2001,4yqh8w8UmSOdXYXUxyqVmb
+367,Diana Ross,rock,track,My Mistake (Was To Love You),2001,02ysjmTLGlg0z5ItQlAbcI
+368,Biquini Cavadão,rock,track,Arcos,2001,0NuLG4uVhoTEyGP0HlKlIB
+369,Péricles Garcia,rock,track,Destino,2001,2sLJcXNUNBqDiCWPGuWV1r
+370,JIGHEAD,rock,track,フラフラ,2001,292K9zXhRnxGYFej4Sv9QA
+371,Litto Nebbia,rock,track,La Ventana (Instrumental),2001,2LUbOZlRiroP92N4mZqiJO
+372,Jan Cyrka,rock,track,Mello,2001,2vJM2cSDaA5hC63eSSXnRa
+373,Björgvin Halldórsson,rock,track,Þú ert sem blóm,2001,2LxfAbydR7tJhnWXefP4Gt
+374,1910 Fruitgum Company,rock,track,Special Delivery - Remastered,2001,1fiQATte6gI5T8Beldaj6p
+375,Obscure,rock,track,Shukh Khuje,2001,4yqCPLyHkEXjyCPjbxjBos
+376,Rama,rock,track,Balkanica,2001,25AVqp9CiJgirCI30GvgWD
+377,La Doble,rock,track,Persecución,2001,6baU2GiUTmUavqUcJbBBSp
+378,Pipodélica,rock,track,Bandido,2001,1ce1kNzMKmylfJdLkHd9Ti
+379,need new body,rock,track,Dirty Bitch,2001,1LGCoqUTMmRa51Qqx1kDLH
+380,Michael McDonald,rock,track,Have Yourself A Merry Little Christmas,2001,11nF3qPJDVVcFIhyvvtkei
+381,Greylevel,rock,track,Blue Waves,2001,4aY0oGu7tEk46Bs9INRo2B
+382,POLYSICS,rock,track,kattobase!,2001,6LTUPCyWh4UxcCQ1hK83FE
+383,Icecream Hands,rock,track,Sobersides,2001,4vdwnYnGApmtdBPdM2VWHE
+384,Bryan Adams,rock,track,Germans,2001,1yoF6GHOfWjc5Jo5cCTrxI
+385,Chick Graning,rock,track,M.T.,2001,0KlEtezEDtXaVOQ829dZ7k
+386,Avalon,rock,track,Come And Fill My Heart - Performance Track In Key Of Bb/Db Without Background Vocals,2001,0nTdTqJuTIcoXTirGwm5HQ
+387,Aldemaro Romero,rock,track,La Guachafita,2001,4n3v5vqpgrMH9pU8ba8Sin
+388,Los Llopis,rock,track,Enamorada (remastered),2001,5aR2tk8Hwd7JM4fcGWNU4r
+389,Bravo,rock,track,20-й век - La Track Mix,2001,1srRo1o00sIsPm52Yu9632
+390,Jabier Muguruza,rock,track,Asmakizuna,2001,5joNSDJKfusLjfClU0I2NH
+391,Part One Tribe,rock,track,Minor Threat,2001,0fXFVPfLvF7bDXBCNTZQQJ
+392,Little Feat,rock,track,"Got No Shadow, Pt. 2 - Live in Denver, CO., 1973",2001,19UNj66SPHytsYsbz0zafn
+393,Imperio Argentina,rock,track,Aquellos Celos - Remastered,2001,5sL83OotQjTQI9x3SLiGcv
+394,Разные Люди,rock,track,"Сигаретный окурок (Live USA, Jan 28 2001)",2001,0B6QSpdK7ztKl9lyF3U5cd
+395,Piet Botha,rock,track,Sysie September,2001,4XLTpZ0dfm3jFZ4Nl2zti3
+396,LAIN,rock,track,Tourist's Ambition,2001,6fMLWixRjP2prdrA4ks7Nh
+397,Concreto,rock,track,O Chá,2001,1dB64efuNPSkip6n5Lge1m
+398,Screamfeeder,rock,track,Mr Tuba,2001,0C4qAvRHnmF2DKCP16gTfx
+399,Enzime,rock,track,Meat Bomb,2001,4rgYzvGbp1GV1OtzpPTzpv
+400,The Fall,rock,track,"I Wake Up In The City / My Ex-Classmate's Kids - Live, The Garage, London, 20 April 2002",2001,2XXB5FZrahBWcGOUewaEhV
+401,Nei Van Soria,rock,track,The Key Sopra o Vento,2001,4MmN8aFSt4QI8nu37wqEcj
+402,Hladno Pivo,rock,track,Pjevajte Nešto Ljubavno,2001,7DU6NtZvzIHtC1a9xgj9c6
+403,Lenore Troia,rock,track,Island Blue,2001,6kVglU3abXHM19OJ0qKFLp
+404,Larry John McNally,rock,track,Black Guitar,2001,5VMFSvSqDuJLsXip7Ox7Ii
+405,Veljo Tormis,rock,track,Tormis : God Protect Us from War,2001,3LpIoMwl2aI4j7ST3rZ8aq
+406,Julie's Haircut,rock,track,When Did It Start Going Wrong?,2001,0NEi1A9XF0tqnIO5VlfNAH
+407,The Blackeyed Susans,rock,track,Everyone's Gone To The Moon,2001,1VUM36fgyvrxA50A4LSLpF
+408,Ricky Skaggs,rock,track,The Reunion Song,2001,2S5jtqGFZjaNXF9ppvBfgx
+409,Péricles Garcia,rock,track,Destino,2001,2sLJcXNUNBqDiCWPGuWV1r
+410,need new body,rock,track,Dirty Bitch,2001,1LGCoqUTMmRa51Qqx1kDLH
+411,Rob Balducci,rock,track,Pressure,2001,1LHdKwYEJLSG7etERcLhjt
+412,Dorsey Burnette,rock,track,Little Child,2001,79Qzte2qcl7cSLyv9nbknm
+413,John Lee Hooker,rock,track,Stella Mae,2001,59unvaD4X5fXnFdxpmjlSi
+414,Die Form,rock,track,Murder / Projection,2001,7xmnPng16F3g6m3Oa0ZyTU
+415,Atheist Rap,rock,track,Pecinko - Whos in the house,2001,7qvtpR2ME6K0mRav0pdGju
+416,Laura Voutilainen,rock,track,Katala kaipuu - Radio Mix,2001,3Fl7jOoYgg5jnm2kE4X0tQ
+417,Boris Novković,rock,track,Mašta Moja,2001,73snGagQPuqK8UOApOBYN5
+418,More Machine Than Man,rock,track,Touch,2001,4Nfsltd7AfIuHYmi4BjwHK
+419,American Dog,rock,track,I'll Drink to That,2001,3Z2aG4HIGxRMQPBdygpUdG
+420,Liz Buchanan,rock,track,Peanut Butter,2001,1tl6nHQmRtSEX0mZcSp7lX
+421,Atomic Rooster,rock,track,Close Your Eyes,2001,0bBabaQbFHOyzw0uXCnM07
+422,Al Kooper,rock,track,Brand New Day,2001,1Og4JUTEwP0ifOy54IXr6j
+423,Self Defense,rock,track,Don't Need a Friend This Moment,2001,35zrCgDTcGtF9b0o8JQV77
+424,Ronnie Self,rock,track,Bop A Lena - Alternate Take,2001,35dwpS8YJGTNtwh3GRrSnv
+425,Разные Люди,rock,track,"John Lennon (Live USA, Jan 28 2001)",2001,6pn4ljvAo0JXVysXtoxiuM
+426,JIGHEAD,rock,track,KILL CITY,2001,5hGcpzB9NOGY1tmGB9PrMT
+427,Seven Nations,rock,track,Big Dog - Live,2001,1JXbQnAOwpvGlUEvLtnZse
+428,Atomic Rooster,rock,track,The Price,2001,5738EgIeMMjFpCV3yOLl6V
+429,Last Knight,rock,track,Thousand Ways,2001,6WYjmwbAsOPYBlZUcXW7Yw
+430,1910 Fruitgum Company,rock,track,Reflections From The Looking Glass,2001,2z5A06fbkL6GgQAhcfrQVN
+431,Carola,rock,track,Nuori tumma - Zigeunerjunge,2001,4BL7rkh6ABFOWbeNE5fKhG
+432,Stray,rock,track,Sleepy Time Blues,2001,7hhywNuT4zTqXyd8KwYvWO
+433,El Caco,rock,track,Monster,2001,1Sb9Te4MujpbDKo9tODYIT
+434,Stafrænn Hákon,rock,track,Vonandi,2001,2WwTCzpjRUGY136Qhn5dlT
+435,Ronnie Self,rock,track,About Cured?,2001,5e7Nq4fzpTnJFUEbrMttm9
+436,France D'Amour,rock,track,Le dernier coup de fil,2001,1HqimoneqLZVfsZfLjtSik
+437,El Caco,rock,track,Cosmic,2001,1pbBaPnLUHHcBqQQSV8RtZ
+438,Chick Graning,rock,track,Tomorrow Is A Good Day For Dying,2001,6G6GpANgnnulGV8G7cm6D4
+439,George Nooks,rock,track,Child Molester,2001,4d4oOd8A4ZQblecK14gf3A
+440,Billy Fury,rock,track,That's Love,2001,5jllgbHGqnpv3XpFlRFZme
+441,Jordi Batiste,rock,track,Preciós Estel,2001,61t1MDFTEbu5z99Alx78Tc
+442,Konstantin Wecker,rock,track,Däumlingsgesetze,2001,0VECtbwMNn71LozyVtAnVq
+443,Dr. Snout & His Hogs Of Rhythm,rock,track,I'm Lost Without You,2001,2puX2Sf5xVXOvLnrOe9kOn
+444,American Dog,rock,track,Drank Too Much,2001,4JYzghVMkGBn48cSFv5aKX
+445,K.T. Oslin,rock,track,What Is This Thing Called Love,2001,5utVvbUUmcMSKenHwbvNP9
+446,Koyi,rock,track,Girando,2001,7aeBiYbn6I2X41iBT9lnVa
+447,Dorsey Burnette,rock,track,Noah's Ark,2001,1J1tV9nH9mYxXv9osBCAua
+448,Carola,rock,track,Rakkauden jälkeen - Was Ich Dir Sagen Will,2001,5WHe6GGTifABKoSksVNiC2
+449,Sacha Sacket,rock,track,The African of 1963,2001,5YvfjKi0QgNXCnIvsbZkmw
+450,Spectrum,rock,track,When Tomorrow Hits - Live,2001,78le4JUY11ZibKIbbXU7CM
+451,Sh'mantra,rock,track,74.40s 167.20e 04:46:18,2001,3oTHMimsi3hfKtL124gtEa
+452,Billy Fury,rock,track,"Will You Still Love Me Tomorrow - Recorded Live At Lewisham Town Hall, February 5, 1974",2001,6b9rTT66ZR2qgCTrQrKUS2
+453,Augie March,rock,track,Heartbeat & Sails - Alternate Mix,2001,2aiy3NuWyqsRL2zw1jaXM7
+454,Rama,rock,track,Mohawak,2001,7lTdtdDsts0auQqNFuJ9XY
+455,Hate S.A.,rock,track,Gehenna,2001,1u8pta82EwWIcRu5Wm6jmJ
+456,Oto Pestner,rock,track,Zdaj je prepozno - Version 2001,2001,6IQ0Vd4AFFqSZaUCoephbr
+457,Rosa Tattooada,rock,track,Diamante Interestelar Lost Tapes,2001,3tnhnymsOidigECvqRggkj
+458,The Jelly Bean Bandits,rock,track,Going Nowhere,2001,1ZSV5kve3z0YPZAYDvRpQr
+459,Gogz,rock,track,Troi Am Adra,2001,4EHDJl1MVwbnFm9pNCqcuP
+460,George Benson,rock,track,California Dreamin',2001,5xDigjdcSbE32KTO2KLOKs
+461,Christian & the 2120´s,rock,track,Poor Boy,2001,2AC8R1iAKFaArdt2W5ihMY
+462,Snog,rock,track,Justified Homicide - Black Lung Delivers,2001,6ToMMlj06PBTf52ZEYsZZR
+463,Afroditi Manou,rock,track,Keros Gia Dio,2001,1mESVSNIUGquiw1ttGjmbL
+464,Rebel Storm,rock,track,What Your Lovin' Means,2001,5DwLskfvAhLxyhdjmmveaB
+465,Embryo,rock,track,Berlin 17,2001,3WBPb2kXyiR6mmCQLS74WF
+466,Pipodélica,rock,track,História em Quadrinhos,2001,0b2Jy7sNFbdec2dtDHW35Q
+467,Lobith,rock,track,Blinded,2001,3B7jGpkjIdUcOh0n1Vuiqd
+468,Tagada Jones,rock,track,Manipulé,2001,17BD6xrlYTdMzENFCLLl3V
+469,Os Ambervisions,rock,track,O Segredo Da Mumia,2001,5I1Mv83rTKM2mMd33hEkQw
+470,WRONG SCALE,rock,track,Responsibility,2001,0r7Lyq4ky43xLJ4Y1M4ijw
+471,Litto Nebbia,rock,track,Esa Locura del Corazón,2001,4m03MR5xbH1Rx5ixLOteE4
+472,Oceano,rock,track,Nada Queda,2001,07bLvFsMVJ3czKOU1882bg
+473,Lakis Papadopoulos,rock,track,Monahos Sto Agio Oros,2001,1pxmj2sYWNmHqVZVtDMHcj
+474,Dog On Fleas,rock,track,"A Man, a Plan...",2001,5onPnW5vUCYDWt6SrSs5hx
+475,Jiri Schmitzer,rock,track,Pruvodni Slovo,2001,0ZR3XW6GSE3uUd4RWmvHeM
+476,Gogz,rock,track,Enfys Ddu,2001,652KofD3Ip1lfOUWMwxmK7
+477,Peter Hammill,rock,track,The Printer Port,2001,5djDe6aTqBTvrPPAVJHeIM
+478,Newrotica,rock,track,風の中のロックンロール,2001,25BC7l4JgMcII3SuhbSPhd
+479,Chuck Girard,rock,track,Sad Christmas,2001,3OE2mp8JeOdtsPte9bDMqh
+480,Bobby Darin,rock,track,Release Me,2001,1IOaqZ8TXtilGmZZar7sms
+481,Kães Vadius,rock,track,Huga Booga,2001,7boZZbXQN9t3Nj2CaIoGhW
+482,The Silvertones,rock,track,Roly Poly,2001,4jmcZAlYCPAumoSkB7kRNo
+483,K.T. Oslin,rock,track,I Can't Remember Not Loving You,2001,7ntAVvOD8JHtj62MN4ymI3
+484,Inocentes,rock,track,Salvem El Salvador,2001,6KEAunnK2xmeaFaio8X4PM
+485,Frankie Laine,rock,track,Mr. Bojangles,2001,2ScZiKsec6mkBQvQkXgcyZ
+486,Chris Spedding,rock,track,Pseudo Blues,2001,6mECj6SGuC1PalelLLdTmT
+487,Paulo Gonzo,rock,track,Mau Feitio,2001,2oNOq0JYEyZWnJxpCQ18kl
+488,Sh'mantra,rock,track,sunburst on the cayman trench,2001,7ow35Jsey6Z6k2ZohNIYoL
+489,Steve Goodie,rock,track,The Pajamas of My Mind,2001,3WObhSbE9GyOcj1MI0fzZX
+490,Last Knight,rock,track,Present,2001,5lLkBSkDgsqXVN8LRh11Su
+491,Sons of Trout,rock,track,2 Face,2001,7aJwsg53BwEyZaf7uvwZOw
+492,Nurit Galron,rock,track,"אם תראה כוכב נופל - מתוך הסרט המצוייר ""פינוקיו""",2001,6lkLgz1xESjXwh8uIAKvKg
+493,Seek Six Sick,rock,track,Black Box Television,2001,2g337jmDe6aanfYkyChxiD
+494,Hortense Ellis,rock,track,Housewife Choice,2001,5VE4NOsAYPDWyA0N2RDP2w
+495,Amber Smith,rock,track,Positive - English Version,2001,7eBD7F8BHZ5Q5ZnsmcSJZK
+496,Los Lagartos,rock,track,Talking Guitar (Instrumental),2001,2xb2aHlmAuhQafFQxP8Wtk
+497,Alberto Vazquez,rock,track,Significas Todo Para Mi,2001,5KH5FNoQBjwkfVjHS0Ep3J
+498,Ronnie Self,rock,track,Money Honey,2001,6umRxd6SuRVJPCmh9YazoB
+499,Neverne Bebe,rock,track,Kiša,2001,3FEhEZX4DaiUYcwBPVN3uf
+500,Sons of Trout,rock,track,2 Face,2001,7aJwsg53BwEyZaf7uvwZOw
+501,Nurit Galron,rock,track,"אם תראה כוכב נופל - מתוך הסרט המצוייר ""פינוקיו""",2001,6lkLgz1xESjXwh8uIAKvKg
+502,Seek Six Sick,rock,track,Black Box Television,2001,2g337jmDe6aanfYkyChxiD
+503,Hortense Ellis,rock,track,Housewife Choice,2001,5VE4NOsAYPDWyA0N2RDP2w
+504,Dave Lindholm,rock,track,Laaksossa,2001,1HStiRflFvDCAg29p1be7X
+505,Silence The Foe,rock,track,Weak but Strong,2001,1VNOUvsNw7CveojydVeXjG
+506,De Portables,rock,track,Pinguin Song,2001,7pRk484zCbBqmunPiD3Bal
+507,Avalon,rock,track,I Don't Want To Go - Performance Track In Key Of Db/Eb,2001,11FMO96CtAxDOVjf8iGx00
+508,Hortense Ellis,rock,track,Eddie My Love,2001,38QTMDo0EYyn0HY1UO4bQW
+509,JIGHEAD,rock,track,コミュニケーション・フラストレーション,2001,55WJQ92K3gw3CD2uU3fDjY
+510,KANE,rock,track,So Glad You Made It,2001,03Jq7Pa9bWZLrA52ojbBLS
+511,Gogz,rock,track,Paid A Gadael Fi,2001,6gxt55DjbBRZND8pnDVKsx
+512,Xabier Lete,rock,track,"Denbora, leku, zeru ta lurrak",2001,3ykZbaFaOz5aYTm6Vs1OB6
+513,Amber Smith,rock,track,Positive - English Version,2001,7eBD7F8BHZ5Q5ZnsmcSJZK
+514,Los Lagartos,rock,track,Talking Guitar (Instrumental),2001,2xb2aHlmAuhQafFQxP8Wtk
+515,Alberto Vazquez,rock,track,Significas Todo Para Mi,2001,5KH5FNoQBjwkfVjHS0Ep3J
+516,Ronnie Self,rock,track,Money Honey,2001,6umRxd6SuRVJPCmh9YazoB
+517,Neverne Bebe,rock,track,Kiša,2001,3FEhEZX4DaiUYcwBPVN3uf
+518,Omega,rock,track,Go on the Spree,2001,0qeZrKCaQQCEAf3O005hoX
+519,Marc Bolan,rock,track,London Boys - Master Version,2001,0FPZaYzBu4cnmZqV0XXGin
+520,Slim Smith,rock,track,Thank You Lord,2001,6ElO4aufD0hasUgLIhhLup
+521,The Soundtrack Of Our Lives,rock,track,We'll Get By,2001,0OQAF9ZDDS0f8z6E3nZiE9
+522,Sleepy LaBeef,rock,track,Sugar Sweet,2001,1h5LI5XdfvIWWwM4MHUw7L
+523,Bitch Alert,rock,track,Monday,2001,3tIDHTnEI5xtZVi0Dw9joN
+524,Jim Morris,rock,track,Strong Whiskey And Big Glasses,2001,5hGrteLewpd2I8XGbkt0gN
+525,Los Perros,rock,track,I Should Say (Live),2001,2EIq97es4CQ00jwp5aVgX3
+526,Walverdes,rock,track,Anticontrole,2001,215LLpJUWrdM1SknpJzMsh
+527,Tall Tales & True,rock,track,Stranger On the Stair,2001,3PVEunqLcZoOPFQBRS4FSG
+528,El Caco,rock,track,I`ll Play,2001,14zANiQ7b2b7m6mpS3HjyD
+529,The Four Postmen,rock,track,I Got My Eye On You,2001,0xhhGnHd9lflUknqN8599P
+530,Sahara Hotnights,rock,track,Down and Out,2001,0swHVZlJciTjqMlTVCGgsV
+531,The Indulgers,rock,track,What a Wonderful World,2001,2EwkA7xaFcmztpkfxQjXct
+532,Dr. Snout & His Hogs Of Rhythm,rock,track,Swingin' On Nothing,2001,1vsKDAM2T2ToxeZOyq9g6f
+533,Monna Bell,rock,track,Guadalajara,2001,2JEmKkcjnrl2dVZHXbhsag
+534,El Caco,rock,track,I Spill the Water,2001,4ulGKj6KVge3gjXGmJlv11
+535,Juha Vainio,rock,track,Santalahteen uudestaan,2001,1Ozmzb4m5FsSO44f8GFaS9
+536,Arsen Dedić,rock,track,Moj Brat,2001,5IPbFtmOEQEhD6aZROom6f
+537,Cisse Häkkinen,rock,track,A Little Love Story,2001,45lADt0U0eISuPlhwvvkqC
+538,The Land Of Nod,rock,track,Orientation Point,2001,1iqgcqYh5RqkxJR7bJ3ncW
+539,need new body,rock,track,C R Eyeball,2001,266uMyHIqmnjhzOtlFrqJZ
+540,Dr. Snout & His Hogs Of Rhythm,rock,track,I'm Lost Without You,2001,3NykVpdeCdfTZ4nlkB6dgo
+541,Crummy Stuff,rock,track,You Got It,2001,5fLAi1HQW6vGhjjAvGgemm
+542,Kill Switch...Klick,rock,track,Rise,2001,3186Jo2JYdk0v9fyqhLsWz
+543,KANE,rock,track,Mother,2001,6Rr4iLQlcCKRcY4VQpV16H
+544,Rúnar Júlíusson,rock,track,Heilagur andi,2001,0YKv00VqV9FtFz3SARqdWm
+545,Backyard Babies,rock,track,Bigger W/A Trigger,2001,0Ix5ODOLefQEk1JgWs1NA7
+546,Spymob,rock,track,Napping Mid-Day,2001,5ZbbKfuqrV7CzyWuQ6Sgyx
+547,Cisse Häkkinen,rock,track,She'd Rather Be with Me,2001,112bSl9VqJH51PfzLpQYBU
+548,KANE,rock,track,Our Hearts Will Beat As One - Int'l version,2001,1z6I8fTPFN56rcCnIoe5Ug
+549,Bill Kirchen,rock,track,Tied To The Wheel,2001,3ZlCwMLmusrr94et8WGoRC
+550,Die Form,rock,track,Song of Paralysis,2001,3XVpoU4PJJ2gF1ETQ7rTfE
+551,Grinding Reaction,rock,track,Fuck The Rules,2001,4n19NQAweChufxwAz8Rlkz
+552,The Red Telephone,rock,track,Burned By The Sun,2001,6eNWiYWVRqCbNtBn7EU1nU
+553,Sons of Trout,rock,track,Hollywood,2001,0h16L3vTYMFfFwR5DCBiVQ
+554,Aldemaro Romero,rock,track,Si Voce Pensar,2001,6HD0QuYXq5RyaLeKhTGAc9
+555,Stonehouse,rock,track,Caught up on the Inside,2001,2O79fhWwBLq4MALqDzTMQn
+556,Jon Secada,rock,track,Joy To The World,2001,6Nugvt41ZTgm5qiBQTaIb3
+557,need new body,rock,track,Bananas and Dragons,2001,7JY4C7HpyiSxS0SNqQ5pRj
+558,Jean-Luc Ponty,rock,track,Under Pressure - Live,2001,6inb4x69jUuG8wsMwj0vUS
+559,Bois de Gerião,rock,track,Garota Fivelinha Clubber,2001,16jVbN9KyukuRaPnP0QIi3
+560,Art Zoyd,rock,track,Rêve de netteté absolue,2001,7ikpvi6ulHAZMyqbU91gL8
+561,Juha Vainio,rock,track,Elämää ja erotiikkaa,2001,3217fRXRlqzk81Jyw7xQI1
+562,Last Knight,rock,track,The Portrait,2001,228r7GPyx3lqAGOWPuB9Za
+563,SOBUT,rock,track,Eternal Blue,2001,2ozXW7PFgMVgDFcevF6G8h
+564,Johnny Clegg,rock,track,I Call Your Name,2001,37SH8bFmLabd3JxyHSMrIV
+565,Music for Aardvarks and Other Mammals,rock,track,Hello,2001,7BPZ9hbE4EeXCJPodXU5tB
+566,Imperio Argentina,rock,track,Bien Se Ve - Remastered,2001,6MXWCDIx9wcD2or6gJWUhw
+567,The Real Kids,rock,track,She got everything,2001,2ajnbCl6njXXl2aBJjltQL
+568,Alice 2,rock,track,My Ocean,2001,198uOeY1JTEumz4MBWnbOq
+569,Hard-Ons,rock,track,Charger,2001,2XIzLgWjV7c1OV6Clpzwtg
+570,Embryo,rock,track,No War,2001,3jOuwB1FEmF1vsOTI77TTd
+571,Ramona Silver,rock,track,The Other Guy,2001,2qMXitFCKvsOTMFT5kE8pd
+572,Rama,rock,track,Ramà,2001,0UkqPOCJqVqJV3XSFxmo1T
+573,Ookla The Mok,rock,track,Fascist Couplet,2001,3QIh0lAzW1TfdC6359Ga32
+574,M.ILL.ION,rock,track,Ready For The Man,2001,4lgHay6PftKGO4AJWjPJ5O
+575,Steven Curtis Chapman,rock,track,Go There With You,2001,7inbkByeHcsW6NutDy3O2Y
+576,Walverdes,rock,track,Eu Vou Vivendo,2001,6JU7rQwSGbEaUJgv295L8n
+577,Soldogg,rock,track,Hvort sem er,2001,4Q4NCRtn2kr5wikWUV03SZ
+578,Backyard Babies,rock,track,Ex-Files,2001,7a83yw2UpwpPHkw7rc3ksn
+579,The Residents,rock,track,"High Horses, Pt. 2",2001,30OIkT2p6oDKzh7WJZmnji
+580,Sacha Sacket,rock,track,Sacrifice,2001,3S7oCWTz5RhaqKIeFSCxUH
+581,Familia Lima,rock,track,Me Dê Uma Chance,2001,2azIA3gZUVt05A6f45PuCL
+582,Psihomodo Pop,rock,track,Natrag U Garažu,2001,3BFEGKGzqVP7iUEQ2t4dMy
+583,Atomic Rooster,rock,track,Can't Find a Reason,2001,6VnJIRVvqoQQcQMgNV1BaQ
+584,Last Knight,rock,track,Future,2001,7JBvV2PfeOyPD85ldtIVNM
+585,Luis Vagner,rock,track,Deusa,2001,3rJNeG3bK64o7WjM1DpRN6
+586,Hortense Ellis,rock,track,We Will Be Lovers,2001,6SD7yUhpBCJHMzovrYI695
+587,Lito Vitale,rock,track,Botas y Aquelarre,2001,1H6Z5GpmTLjLas21kKog1W
+588,Monna Bell,rock,track,Cielito Lindo,2001,1E7LCEHEVjeyGHx5Fjyj1B
+589,Presser Gabor,rock,track,Vigyél el,2001,0DmujztKL0alO75PC4WfN4
+590,B.J. Thomas,rock,track,I'm So Lonesome I Could Cry,2001,1MSPaS81k9JBSCqKUaT9j2
+591,Brent Burns,rock,track,God Don't Care What You Wear,2001,6Vcyj1Tkvnhuy4TDQQJA4q
+592,Quarkspace,rock,track,Fissure,2001,1XN2Vt4KEboltznROV3lw3
+593,Judy Collins,rock,track,The Prickilie Bush,2001,3w2aOWJfIkDeuiZqM1JRB5
+594,G.A.S. Drummers,rock,track,Dead Words to Spark off the Light,2001,7uQMyPLzNG7p8TL4TVBJnp
+595,Leroy Smart,rock,track,So Sweet,2001,6z7YXDQgK35R51ORXoLjyZ
+596,Los Gatos,rock,track,Seremos Amigos,2001,2qybzx3pQ75LkjfhNJjGjP
+597,Óscar Chávez,rock,track,Gracias a la Vida - En Vivo,2001,3nkUlHvORvmwbq47RPAwB0
+598,Push Kings,rock,track,Hands 2gether,2001,37JWUk6MrSCOCbZOwYwdJs
+599,The Fall,rock,track,"Cyber Insekt - Live, ATP, Camber Sands, 28 April 2002",2001,4HnrwLKcH6dq7HG0fXpye6
+600,Zarama,rock,track,Euzkadi Fizzioa [Izorra Hadi],2002,5loyoxqtl8AAIGfZEc1mGY
+601,Tomeu Penya,rock,track,Sa Millor Amiga Que Tenc,2002,3qRcoB2ji0uHcgDS58FLA6
+602,Niños Mutantes,rock,track,Ayer (canción Alemana),2002,4z3n8DDTSrqSeZYk80mpst
+603,Felipe Conde,rock,track,Quédate Junto A Mí,2002,4oliTKv3MZewSUOjSzFJQF
+604,Sylvia Pantoja,rock,track,Ambigua Noche,2002,2rpFN3k2wkA7VuHw7lat6E
+605,Txapelpunk,rock,track,Widow,2002,4USstAJsDvm9kedfTdfmyM
+606,Lito Vitale,rock,track,Para Soñar Y Reposar,2002,7qEd6MvLZOZcG6igC9blNO
+607,Kelly Mcguire,rock,track,No Fear,2002,6WGGMl2MTdAEYrQYFEqhDU
+608,The Killdares,rock,track,The Noise Club,2002,2JejtfHiJjEd828qyIqDC5
+609,Sur 16,rock,track,Cuando Preguntan por Ti,2002,4QJoQK5e0zdmavqgoTCCnw
+610,Uns E Outros,rock,track,Antes Que o Relógio Pare,2002,1GwKczOuI2yUmYCmDf0wBB
+611,Inocentes,rock,track,Pátria Amada (Ao Vivo),2002,24r9YYmDg29NEjyjQb2PaX
+612,Two of a Kind,rock,track,Girls Who Rock The World,2002,7FUxVtbJooDKx4g0mAbLVB
+613,Hasil Adkins & An Unknown Band,rock,track,Can't Help It Blues,2002,1OE0PfzbwBT9RA06GuUJrG
+614,Los Chicles,rock,track,Yendo a Pegar,2002,2sN4Flnvqj9fZUivOzwsrs
+615,Jóhann Helgason,rock,track,Working girl,2002,0l1ekVlxtc5Y6VYxlo17Qw
+616,Fughetti Luz,rock,track,Entre o Bem e o Mal (Remasterizada),2002,3zGokjwQIYDgdgppzz6ql6
+617,Oreo Blue,rock,track,Prescription For The Blues,2002,3zQ3jcrw8Ec8wiWEfGRoWY
+618,Gal George Gjurin,rock,track,XVIII.,2002,1315vIhxlAS3KOyIQGOAs5
+619,Lito Vitale,rock,track,Grisel,2002,6C1sxGzrqL2IrWUeqPgHCo
+620,Eric Schwartz,rock,track,Sunday Blue,2002,5gxFGCarjWfoF6S5ru7b8P
+621,Dada Ante Portas,rock,track,What Remains,2002,5KFha8tn6LNHNlrDJjX5Fd
+622,Los Terricolas,rock,track,Dos Almas,2002,5nytT9GNRvHkNgfTSzMYvd
+623,Chewbacca's,rock,track,Das Experiment II,2002,170WwnItUy51EXDCCsShW0
+624,Midnight Configuration,rock,track,Necronomicon,2002,45SlGmzYaU5fwQNjO2Gocv
+625,Katteni Shiyagare,rock,track,ショット・ガン,2002,3rybvZhac9zFH6UcPrjgFn
+626,Xabier Montoia,rock,track,Aspaldiko Danborrak,2002,2mZS0OfJe1grrmUiKFrN7i
+627,Hans Hartz,rock,track,Der Wahnsinn Blüht II (Radio Version),2002,3Uvuow29rHHIRXv5yK4kUd
+628,Los Rabanes,rock,track,Un Suicidio en New York,2002,0sWEu4uw7ZFLNPGD7FNHZr
+629,Bernie Chiaravalle,rock,track,The Way To My Heart,2002,3ymcf7Lpt2PfBeeujNJa7b
+630,Sam Sam,rock,track,Desperté Mojado,2002,57hux9uYKcP16ffRW2eCy8
+631,The Piranhas,rock,track,The Great Glitter Nest,2002,01DXaPY2JjJc7MgvQf2ONp
+632,Juliet Jonesin Sydän,rock,track,Santa Claus Is Dead,2002,6uckFQv7stlbcbfczeMDdV
+633,The BellRays,rock,track,Merry X-mas,2002,3R626ghCHJGETp99SZd7ai
+634,goldenboy,rock,track,1st Rule of Breaking Up,2002,3adLzQxB4QjhTz4wHLX3Ua
+635,Deserdados,rock,track,Assim É a História,2002,0l8GqccWbQsBeVs8ya6xrF
+636,Skeleton Key,rock,track,Roost in Peace,2002,1Vzd6gO2drqSiIcO0BdMuh
+637,Vandal X,rock,track,Not You,2002,4T1YtwORJTWJPIRCD2fsXx
+638,YOSHIO,rock,track,Nos Estorbo la Ropa,2002,1pXJWc0YrVlNotfjUkYXkw
+639,Stafrænn Hákon,rock,track,Tálkn - 2022 Revised,2002,5XH8Z3eyEkPiMcY2WAYP5i
+640,Danny De Munk,rock,track,Ik Durf Met Jou Alles Aan,2002,0yVPzD2Hu2nxMaY1E9Unu8
+641,Tue-Loup,rock,track,Buse,2002,4rsnuevpdwY2YZaV2omRSz
+642,Isis,rock,track,Solitario,2002,604mx7DkclBQybAXnZzfwJ
+643,Exxótica,rock,track,Pronto Para Ir,2002,4CJzPRg2q6d2AZGWdXlWPC
+644,Uns E Outros,rock,track,O Mundo é dos Espertos? (Brasília),2002,2uLYptezcVTjnW4fWn77Pd
+645,Fughetti Luz,rock,track,Nova Pulsação (Remasterizada),2002,7MOpwJjRSMiFFxsYBeZMHH
+646,Luciano Albo,rock,track,A Chave,2002,6bfSwXy30NwWTaMfA2MQdi
+647,Lakis Papadopoulos,rock,track,Fige Apo Mena,2002,1wGc2wVh7bRfqjOQFr5uNm
+648,The Violents,rock,track,You Don't Know,2002,3LwatK5Lc34hg0LrysrIo3
+649,Valentino,rock,track,Como Me Arde Mama,2002,2v2ZUKzWXIyHpm5ZKH6HBP
+650,Hatespeech,rock,track,Unbeliever,2002,3onLYlKzl9vOlXmMM5301u
+651,Omega,rock,track,Man Without a Face,2002,0SKCJ6oCorOPMUJXLIG7Gp
+652,Jad Fair,rock,track,Two Of Us,2002,3eXlmLunX1vywCEILqjWwp
+653,Yo Yo Mundi,rock,track,Ambaradan (Filastrocca Degli Esclusi E Della Vita Che Verrà),2002,6LBNoAKKHuqMWpuB8lGH8e
+654,Karat,rock,track,Reggae Rita Star,2002,2MhfjIGXQnOWNXNbxRoXnc
+655,Daeonia,rock,track,Whatever May Come (Whatever Comes Before),2002,75VUoYgPvRTDru0YUtGDWo
+656,Stephen Cummings,rock,track,Hell - Live,2002,3TAfWXPKczZvggyBYPAhTo
+657,The Groove Hogs,rock,track,Fool,2002,04Df9oMU9Ocl97x34Wz1Pu
+658,F/i,rock,track,Untitled Jam 3,2002,6XznZ6DeTgff0IY2Z7MObg
+659,Mišo Kovač,rock,track,Dalmatino,2002,38NWwpyUTzgEFA93iuoJCO
+660,Thin Man,rock,track,Beijing Dream,2002,0oI6NIuXzTbbfj7ahVrifi
+661,Ta Jana z Velke Ohrady,rock,track,Neco me je (nazor druhé strany),2002,1ic3pSq6rKrm3JtN7QWYQV
+662,JP Stingray,rock,track,Paradise Lost,2002,2bO8sFf25GqOD7UdK5TEOR
+663,Twila Paris,rock,track,Celebrate The Gift - Performance Track In Key Of Gb/Ab,2002,6cAFSvOxwbNKY5yelAdL6d
+664,The Harmonica Pocket,rock,track,Umbrella,2002,66GeVIKmcDsTHWIFD1TNJe
+665,Mark Keeley's Good Rockin' Tonight,rock,track,I Can't Take Anymore,2002,7qw0FVjos8Q7XNPS9IyNHM
+666,Moly,rock,track,Not If You Want To Keep Your Spleen,2002,5aPJcLVtoMDWkvLyVHPxbS
+667,Los Chicles,rock,track,Para los Pibes Tristes,2002,2O6LvKEcmKEFiTdn3zQp92
+668,Stafrænn Hákon,rock,track,Kul,2002,78mI8WWA6bJ8FoeWHM3QOn
+669,Frank Ifield,rock,track,Maybe I'Ll Cry Over You - 2002 Remastered Version,2002,3Z3HXPI3y2D9zmSkz56jVI
+670,The Drugs,rock,track,Pam & Sam,2002,2qcsifWLfL1AyU7n10VX7J
+671,Dust Rhinos,rock,track,Step It Out Mary,2002,1XMLbs2Rjm2HvIrvTFOtEW
+672,Levente Szörényi,rock,track,Színes ceruzák,2002,1OCaXiddkxSTJnvNb1x2CJ
+673,Ian Gomm,rock,track,What A Blow,2002,1OCbm7I2Y9ySeeHrXKrGEX
+674,Bananafishbones,rock,track,Talk,2002,0VcWNa9yxUz7Xf9EoXx1x9
+675,Silly,rock,track,You said I'll be back - house remix,2002,34TqAJbNHSnMsQBVpnDcyW
+676,Litto Nebbia,rock,track,Harlem Español - En Vivo,2002,4UaSWvhKN5EVVsqRyU1oeQ
+677,Music for Aardvarks and Other Mammals,rock,track,Love and Things,2002,0l312wFFYQIecpf6h0PCD8
+678,Yo Yo Mundi,rock,track,"Uh-Uh, Ah-Ah (J'Ai Toujours Faim De Toi)",2002,5dZr5PR9yBZoDOJd8EJzYH
+679,Divlje Jagode,rock,track,Ti Bez Riječi Znaš,2002,0d4K3y7IhXS6dn1opy3Tob
+680,Mark Wynter,rock,track,Don't Cry,2002,5onbuGWF7OgtvPZ4TFPpDi
+681,Narguilé Hidromecânico,rock,track,Crôa - Remasterizado,2002,4NtBaoFoLrOjKtUf7R2jBl
+682,Virginia Lopez,rock,track,Por una Traición,2002,0tQubExQETqYsipOJ7GEsR
+683,Sugar Minott,rock,track,Dread,2002,3XUd3WXE5oJycLnuYq5j2N
+684,Poor Genetic Material,rock,track,Star of Eden,2002,6JPQmDxwvfpQfclmLwhjyC
+685,Headless Chickens,rock,track,Dark Angel,2002,1TlhTMkGHkbLRhvj3SoDLl
+686,The Five Satins,rock,track,I'll Be Seeing You,2002,5aootY1a0ycOwIs8Sc4Ekl
+687,Dog On Fleas,rock,track,Parking Lot,2002,2KEnN6NXZ37Iwora4sGGH1
+688,Wayne Watson,rock,track,Long Way From The Manger - Medium Key Performance Track Without Background Vocals,2002,0hlmG191huLs3XvnajPtHD
+689,Karat,rock,track,Kalter Rauch,2002,6y6evi0lKVpoUTK6Fv4Gtu
+690,Tupamaros,rock,track,Alex,2002,4vhfqKWcE7ocGHhzGIEkdq
+691,PREMIER,rock,track,De Facto,2002,2NikLN60etbcQT6TFP9JEt
+692,Sugar Minott,rock,track,Be Careful,2002,76ULopzsrFzHmmgsCocjhD
+693,Goran Karan,rock,track,"Partenca (Ay, Ay, Ay)",2002,0W64DjVDgZv3QcKrYBBWJM
+694,Nichole Nordeman,rock,track,Holy - Performance Track In Key Of F,2002,2ygDOc4ODvueGn0HHcTNsd
+695,Danny De Munk,rock,track,Overal Waar Ze Gaat,2002,4Ke0ZyUoCQuAJDQIeSA5fx
+696,Karne Krua,rock,track,Vida Sofrida,2002,6iGgEsHvzMHvvNecmYi37G
+697,The Groove Hogs,rock,track,Make Ends Meet,2002,0YwvYJli1NQbIfHhc3SFPI
+698,Defalla,rock,track,Pra Tocar Teu Coração,2002,1nMcvgAysrBfkmgyiNMPlh
+699,Frank Ifield,rock,track,Troubled Heart - 2002 Remastered Version,2002,2WdIqFbWM3NwfLtHsBlTU6
+700,Tupamaros,rock,track,Alex,2002,4vhfqKWcE7ocGHhzGIEkdq
+701,PREMIER,rock,track,De Facto,2002,2NikLN60etbcQT6TFP9JEt
+702,Sugar Minott,rock,track,Be Careful,2002,76ULopzsrFzHmmgsCocjhD
+703,Goran Karan,rock,track,"Partenca (Ay, Ay, Ay)",2002,0W64DjVDgZv3QcKrYBBWJM
+704,Nichole Nordeman,rock,track,Holy - Performance Track In Key Of F,2002,2ygDOc4ODvueGn0HHcTNsd
+705,Danny De Munk,rock,track,Overal Waar Ze Gaat,2002,4Ke0ZyUoCQuAJDQIeSA5fx
+706,Karne Krua,rock,track,Vida Sofrida,2002,6iGgEsHvzMHvvNecmYi37G
+707,The Groove Hogs,rock,track,Make Ends Meet,2002,0YwvYJli1NQbIfHhc3SFPI
+708,Defalla,rock,track,Pra Tocar Teu Coração,2002,1nMcvgAysrBfkmgyiNMPlh
+709,Frank Ifield,rock,track,Troubled Heart - 2002 Remastered Version,2002,2WdIqFbWM3NwfLtHsBlTU6
+710,Ty Syčáci,rock,track,Vylité srdce a napumpované,2002,5ctEMSZntS1o7ijs31L0EY
+711,Марія Бурмака,rock,track,Де ти тепер - Max NRG Mix,2002,2sb7R40CMA7vQHBB3HyWW6
+712,Maarit,rock,track,Sillan teen,2002,292nHGXreWDUEjmdEP9azJ
+713,Dog On Fleas,rock,track,The Monkey,2002,53f2CT3GkgyN07mbqNmQ8W
+714,Headless Chickens,rock,track,Second Time Virgin,2002,4Zr3ZOqXStUzVok1657OHt
+715,Stephen Cummings,rock,track,Keep The Ball Rolling - Live,2002,6YswDsnjppH9pJ0syBHHkl
+716,Verstärker,rock,track,Mogwai Downer Syndrom - Jaku Version,2002,5jsxoW8NaKVe7QRkfF7I20
+717,The Boswells,rock,track,Shameless Pop Song,2002,5q1qPsN3xPl4juurc5e8aZ
+718,Thalia Zedek,rock,track,JJ85,2002,2PBevPKrq0PzIeoyeyhein
+719,Alejandro Ferradas,rock,track,Cotidiana,2002,5Yn0hTuljtTA48PD8lGWes
+720,Mother Jane,rock,track,Solid Ground (got My Feet On),2002,4HTWCi3eZfy4L2AXfSnLd1
+721,Maria Montell,rock,track,Baby Baby Baby,2002,4IUyxkzNeQVui4W1zbpnUP
+722,Дует Ритон,rock,track,Днес пак,2002,1IM3Huh4twse09QnogM8AV
+723,Botnleðja,rock,track,Lay Your Body Down,2002,1pqPbDOBQaOhdTcM7ULBLg
+724,Taxband,rock,track,Tequila de Luna,2002,2JWkZS1azCyxL1koXbzV3p
+725,Valentino,rock,track,Vengo de Allá,2002,6tpCb6sIEbPDSuBRaEPgKK
+726,Modus,rock,track,Slice Of Life,2002,31N6PswLh0dLkW62ulzutD
+727,The Enid,rock,track,Waltz,2002,07t3P8BBGL7UMU1dIakGzJ
+728,Erick Hovey,rock,track,Gonna Tell,2002,18QN6l1iK19tpTT3Q13C06
+729,The Indulgers,rock,track,Holiday Getaway,2002,5N3ftDEje3VFsucFItsq6C
+730,Riki Sorsa,rock,track,Olisinpa hän,2002,0UxcuLW5F2hfzgqUQ8HfIr
+731,Il Castello Di Atlante,rock,track,Estate,2002,2oyp1t4QnOpKw2bAbdJOHF
+732,Tennessee,rock,track,Nevada - Instrumental,2002,4ZAjY1FBHfWTcyLRr8oB2I
+733,Muzzarelas,rock,track,Cockroach Men (Instrumental),2002,6dZbd8WpZTMIMFMlqWgFpm
+734,Art Zoyd,rock,track,L'homme mince,2002,48UbiOIy01F4XQgpa7XTid
+735,Litto Nebbia,rock,track,Ojos,2002,19ADwRPZmvg47h3rea3Rqw
+736,Ful,rock,track,Nosotros,2002,0vrYb7rljpEcTd3b3kEeJs
+737,Frank Ifield,rock,track,Put Me In Your Pocket - 2002 Remastered Version,2002,4MEANsvQAAzjddZfTtosSh
+738,Gal George Gjurin,rock,track,XI.,2002,2g3Y6RjMfCOKFwRNILOGWE
+739,Tommy Steele,rock,track,There Are Those,2002,6pG1KhrCDk9wSnhrummp1f
+740,Miquel Pujadó,rock,track,Aspirina o Anestèsia,2002,2g5Xcsm2OByQXPtTAsnn1C
+741,"Quico El Célio, El Noi I El Mut De Ferreries",rock,track,Un Prodigio d'extrema Hermosura,2002,0msbQUl9XxEr70jRDKJko3
+742,Alexander Bashlachev,rock,track,Влажный блеск наших глаз 2,2002,6hcStwmiroyZ7b6dKzDByu
+743,Melys,rock,track,Baby Burn,2002,6zG6M5CF2rFZW2TBT9GDPw
+744,El Aire,rock,track,Son Tan Ciertos Tus Ojos,2002,4UqAZsegZ7UhYV0Z6SktUT
+745,David Olney,rock,track,If I'd Have Known I Couldn't Do It,2002,3txakcQRwfs2j579RXKtUw
+746,Alexis HK,rock,track,Mitch - Version instrumentale,2002,6AmzLIyVSd9EyCHXG8HUnD
+747,Pop Will Eat Itself,rock,track,Dance Of The Mad Bastards,2002,4K6GElzlYxN9nhHAKInqTu
+748,Niños Mutantes,rock,track,El Sol De Invierno,2002,0HEc72R2f3OoT9wHmgTE4j
+749,Karne Krua,rock,track,Brasil Heróico,2002,4mVTQ9YwFIdejIXhI1EaIh
+750,Cabaret Voltaire,rock,track,Hey Hey,2002,6ryeSEOe7UyEfHfoIVU6QD
+751,Omega,rock,track,Lady of the Summer Night,2002,0LMCyMnSf1RVu2UqvNoFuF
+752,Iwa K,rock,track,Wanita,2002,2FHhCxGTR5yjzfZzJyHuku
+753,Daryl Hall & John Oates,rock,track,Say It Isn't So,2002,0l0looSDBfX1ypzOcIpD6e
+754,F/i,rock,track,The Cutter,2002,2bDA5pgeX1HBsKIP8Sxiaf
+755,Verstärker,rock,track,Next Time,2002,0b2I7faqrt9VahbezyfiLf
+756,Narguilé Hidromecânico,rock,track,Remédio Caseiro - Remasterizado,2002,5dYWsWFW1PlMicTGkWjPNP
+757,Káfila,rock,track,Batcum,2002,3HZPw7inpgwGBf8xpGSMWC
+758,Steve Johnson,rock,track,Let Us All Remember,2002,37PrTSBjQQSHj7ILAKW743
+759,Gal George Gjurin,rock,track,XXII.,2002,2eIYOFn5h4C9DLtJ6ufL4B
+760,Sebastian,rock,track,Nillu Poomkuyile,2002,0VCtwGr9prEgHrXgHXEPo0
+761,Alejandro Ferradas,rock,track,El Último Bastión,2002,3Z0cdLLQQxGWHM7j4XWTmJ
+762,Atomic Rooster,rock,track,I Can't Take No More - Live,2002,3IpDuxeh7Sh3eky5tmF7TN
+763,Oskorri,rock,track,Zazpi Ahizparen Gai Den Oihala,2002,1pqNKwLID9Jtayay3S5Os3
+764,SABOTEN,rock,track,ハードバッカー,2002,6ILBZx8EvjTzHKdKVJ47G6
+765,The Enid,rock,track,The Biscuit Game,2002,4TQJ7tFk6Ku8o49gNZifew
+766,Twila Paris,rock,track,Silent Night - Performance Track In Key Of G/A With Background Vocals,2002,4jFqr4MQ93B5DMd0hrtgou
+767,Träd Gräs Och Stenar,rock,track,Blixthalka,2002,3BCPHq25xnaDBL3Zi6U6y7
+768,Sciana,rock,track,Deja Vu (2007),2002,4KcRx3GeF7RmT23gCvj6cu
+769,Los Terricolas,rock,track,Deja de llorar chiquilla,2002,2mDxVxiNF5MFYRVoibZJTp
+770,Mark Wynter,rock,track,One Girl,2002,3ddxp9gUpgLuTF1Cbc9xDL
+771,Bijou,rock,track,The Saddest Thing,2002,3oTTKNEwFVF0WENsfbh7Y5
+772,Phono,rock,track,"Busy, Random",2002,4hxs4tBZuAI11PE7DJRoP3
+773,Throwing Toasters,rock,track,N.R.L. (Nursery Rhyme Lawyer Song),2002,6SXmibOfW3tQgZ09cjIr3q
+774,Litto Nebbia,rock,track,Campo Adentro,2002,5iQ0DZqehge0EqL3KENcCq
+775,PREMIER,rock,track,Hledání,2002,34vbAbeOwB4iZWGTF6rMH8
+776,Ervin Arzu,rock,track,Nidanimari,2002,2L09HgU7wAeViholjrfvkE
+777,Ian Gomm,rock,track,Sad Affair,2002,4XrGjByskcOpvUIaN4oLMY
+778,Monna Bell,rock,track,Retrato (Fox Shuffle) - Remastered 2015,2002,5YpNB9qSxvjBWcOXdAAwLo
+779,Captain Harry,rock,track,We Move So Good Together,2002,3qkan5qkFgdwUYxHFnSoES
+780,Limon Sutil,rock,track,Accidente de Tu Vestido Que una Extraña Noche Se Manchó Con Colores Radiactivos,2002,2ALqgk93kQpgUvcUQPWEEs
+781,Illegal 2001,rock,track,Wenn's kommt - live,2002,0HyD4zFwsbpBaUrjwp2HkZ
+782,Madera Rock,rock,track,Noelia,2002,3JEiu6cpBPnLcz4KzHIoay
+783,Rod Stewart,rock,track,Every Picture Tells A Story,2002,2d5KG3bx6G5LxZhApaF0Qy
+784,Blackstrap,rock,track,Ghost Childeren,2002,4p0GtkY0uCS7H7cj2WxUId
+785,Gabi Novak,rock,track,Slavit Ćemo Sami,2002,4Ne73GjmGtljHSpBDppjFe
+786,Marcus Malone,rock,track,Take It to Heart,2002,1ihM9uPkZwpE4UfHXmy5tc
+787,John Anderson,rock,track,Just At Dawn,2002,1pcS0LgFOEQJ7JjnSz6FEf
+788,Gloria Gaynor,rock,track,Mack Side - Re Recording,2002,4goFuMNKECevbHOqUwQe3T
+789,Verstärker,rock,track,Ein kleines Herz,2002,05wPkandEGPAfZ1UZ1GDOG
+790,Vitorino,rock,track,Abrilzinho volta ao Ninho,2002,3UwVbBt8zKNZl6hNeSYZ6V
+791,Miquel Pujadó,rock,track,Els Músics,2002,3eXdrBUB0jmiaqLjyEFIlY
+792,Crummy Stuff,rock,track,New Day Rising,2002,2WUBCOmA19tLYlDMyJ5gZL
+793,Steve Johnson,rock,track,Last Train,2002,0gJue8P24FcV5GescsFhEn
+794,Ian Gomm,rock,track,Airplane,2002,0NKfyrtaNP90edoPmXjhM0
+795,Directia 5,rock,track,Pakistan,2002,65ezV6DPlfgHTlsrWxFSYj
+796,Выход,rock,track,На чёрную речку,2002,30F6SdxTXWTSNgvE4J67NJ
+797,Ervin Arzu,rock,track,Aguwajatibu Nu,2002,7cY5HbtmEbE1hhlbqg56dk
+798,Sugar Minott,rock,track,Identify Yourself,2002,5eP2jmQHTt85dLPOE65Sxe
+799,Audience,rock,track,They Are Close,2002,6jPRCZWmExbhmfKT02LuTj
+800,Purrkur Pillnikk,rock,track,Freyimdargretszchybusch,2002,7wYRbHejFCJcqqUOxYyaS2
+801,Throwing Toasters,rock,track,Debbie - New Millenium Version,2002,791rTzEKluKe7OclcO7Ms3
+802,SMP,rock,track,Born Of Science - Datura Mix,2002,7MGyAZr4nxkBNjLq7HT1iN
+803,Neki to vole vruće,rock,track,Za Sva Vremena,2002,1oztDoIZ6CS4rxJ9Rqx73p
+804,La Tia De Las Muchachas,rock,track,Sueño Americano,2002,6bkZgqXAPbItTYrutgJB3A
+805,Unidade Móvel,rock,track,Passo em Falso,2002,6ccnGbKZhns2DobAcVutsc
+806,Los Astros,rock,track,Los Ilegales,2002,2j3V2gVlZMUKVKSx7j5hxj
+807,Rod Stewart,rock,track,Bring It On Home To Me / You Send Me,2002,0WUD2YNBRD7ALFnv4tc2WL
+808,Banda Blanca,rock,track,Oye Este Canto,2002,0b8AT6LOXqQJGl1MY54hBP
+809,Country Lads,rock,track,I Asked Her,2002,5utlYojzSNbO9MElGNeD7k
+810,Gualberto Castro,rock,track,Cuando Vuelvas,2002,4EmszDWLiLdtKkHNEhv5RL
+811,Infierno 18,rock,track,Sin Titulo,2002,5diCZdpScGmwuBSUcfkCBc
+812,Mr. Saxophone,rock,track,Let's Go Outside And Play,2002,1z6R20eNbEsEcJhgkjZik3
+813,Xabier Montoia,rock,track,Aspaldiko Danborrak,2002,2mZS0OfJe1grrmUiKFrN7i
+814,The Harmonica Pocket,rock,track,Umbrella,2002,66GeVIKmcDsTHWIFD1TNJe
+815,Illegal 2001,rock,track,Wenn's kommt - live,2002,0HyD4zFwsbpBaUrjwp2HkZ
+816,Genitallica,rock,track,El Tiempo,2002,4nNlL3nx9gzWuAJx3P4iSl
+817,Megas,rock,track,Kölski og ýsan,2002,0NA6q3zdtLQ6XdHczAPs9h
+818,Peter Mayer,rock,track,This Christmas,2002,5wt8U3t32K4bG4VZJwx7bT
+819,SABOTEN,rock,track,写楽,2002,0r897OyXEbCQW9BHAJ91AK
+820,Ache,rock,track,Quizas Quizas,2002,60zAb5s63fEccBAZGYSVak
+821,Marco Minnemann,rock,track,Document 4,2002,3LyXJvjRR3OUCdZwvMH6wc
+822,Nahuatl,rock,track,Tiahui,2002,3pLSFDml4VD4xem4SI6EzI
+823,Vandal X,rock,track,Run Away Boy,2002,2lSSaa9necqmq6OT4FZZzn
+824,The Legendary Pink Dots,rock,track,A Sunset for a Swan,2002,0v9HMv7EaMjRZlJ7ju2Pyd
+825,Vibracathedral Orchestra,rock,track,Going out Intending to Dig,2002,0kf4hJC2KbUBjIGaebfnQZ
+826,Barry Manilow,rock,track,Winter Wonderland,2002,6bFZdtafnvXFBJgkCpmKgT
+827,Bob Karwin,rock,track,Treehouse,2002,2l7TH6nyh1UcAa1GFPDawU
+828,Ville Leinonen,rock,track,Tuo 2,2002,7BbYnHVfwG8AtLt0uo9kwy
+829,My Friend The Chocolate Cake,rock,track,Swirl,2002,6XtTCxF0ToV6KsxdrlVtnU
+830,PREMIER,rock,track,Replika,2002,5upH90ZMNo1vc0ShQFw7yG
+831,Ty Syčáci,rock,track,Podzimy,2002,1gTHQoU40ce8jFy26nub8F
+832,Limon Sutil,rock,track,Ciclos,2002,6empdaBSEKjdMX8nfVOdwN
+833,Regev Hod,rock,track,אני דוהר,2002,0WxcOCJL5IWJZ9sbzUbMEH
+834,Such A Surge,rock,track,Gib mir mehr,2002,3wxOrP76Tjy1gCoDJ8e47R
+835,Lame Ducks,rock,track,War,2002,39Yn6NEkVQJDfkyaG0Vofa
+836,Giorgio Gaber,rock,track,Quei Capelli Spettinati,2002,4eHJzNeKHUG4nV4TZt9N3C
+837,Even,rock,track,Same Again,2002,6gJ3x9tdxRfa0QB1dCAouF
+838,Bienvenido Granda,rock,track,Lo Que Será,2002,02s6LIt1xOWTByE1Lc7Tn6
+839,The Searchers,rock,track,I Count the Tears (Stereo),2002,1Eemm2nBrY3ySv5VoXlHZU
+840,Stormy Mondays,rock,track,Here She Comes,2002,2VWso8JnorodApOrBghYim
+841,GOING UNDER GROUND,rock,track,Himitsu,2002,6oI20WKCSPsZ9nP26RPd5A
+842,Jets Under Fire,rock,track,Waiting In Shadows,2002,6qR03EA1Vtx8CDtOGrDXIp
+843,Los Muecas,rock,track,Silvia,2002,0U4AXTrxLfujQPpe8P9dJo
+844,Kim Kyung Ho,rock,track,여러분,2002,3ke3q33VbpBcdS45d8rbVz
+845,Maarit,rock,track,Istun tässä pöydässä taas - Sittin' on the Dock of the Bay,2002,1TlNWlJqTB7sIzi8VzG6P0
+846,Stafrænn Hákon,rock,track,Tálkn - 2022 Revised,2002,5XH8Z3eyEkPiMcY2WAYP5i
+847,Iwa K,rock,track,Intro,2002,51BgJj3LNDRFFVEeqmFZuZ
+848,Ervin Arzu,rock,track,Binya Garinagu,2002,3YIBPqaWB5KcZDKcUOYwm6
+849,The Maharajas,rock,track,Wait & Wonder,2002,2O33xTwgYtHk1SyIuvzRY9
+850,Madera Rock,rock,track,Noelia,2002,3JEiu6cpBPnLcz4KzHIoay
+851,Stafrænn Hákon,rock,track,Iodine Calm - Bonus track,2002,7hfMPpeaeq3172SvOW4KEW
+852,Los Terricolas,rock,track,Vivirás,2002,0PQA1oc0eJXxkmOMDE5lQM
+853,Get Hustle,rock,track,Lost Cities of Gold,2002,1ISptqtlo6lvTNPwKWcOXZ
+854,Dekabr,rock,track,Зеркала,2002,3935C28BCYfYZrON9EbOlc
+855,Such A Surge,rock,track,Ich sehe dich,2002,2to5gqPDm0yimiuwpYNSu6
+856,Bernie Chiaravalle,rock,track,Someday You Will,2002,6OgRMgpXbqaivIU5ZneRSP
+857,Mr. Billy,rock,track,Butterfly,2002,1SOMmAtxcZixDpxvVslRTa
+858,Marcio Mello,rock,track,Na Hora da Partida,2002,63dF2CQbEqY8pdXH73Llbd
+859,Novi Fosili,rock,track,Milena,2002,2sRpg3G2SZrDljzUz2v7ev
+860,The Great Luke Ski,rock,track,Frat Boys,2002,6zPOhIFIq6KZ1DvjVTZr9C
+861,Oskorri,rock,track,Ene Maite Bitxia (Play Back),2002,0ca2FjHYn4P0TG80mfF6Iz
+862,Art Zoyd,rock,track,Maria-robot,2002,5337bs2pau7bIRUrwUl5nv
+863,The Legendary Pink Dots,rock,track,Cheating the Shadow,2002,7LrpBCCiKCHHWk0RYgIdoN
+864,Levente Szörényi,rock,track,Csak egy dal,2002,0fNMjCYG05TJ2tR9woQ9cZ
+865,Limon Sutil,rock,track,Accidente de Tu Vestido Que una Extraña Noche Se Manchó Con Colores Radiactivos,2002,2ALqgk93kQpgUvcUQPWEEs
+866,Vandal X,rock,track,Punk Under 13,2002,2IJO5k4NBT9RZ4i9gAjesu
+867,Leslie Smith,rock,track,Need A Rainy Day,2002,30c7jJ9M76vJycrZntQZ3b
+868,Novi Fosili,rock,track,Kad Naš Brod Plovi,2002,0l6W3W50EP2UswCF2EUHCs
+869,НОМ,rock,track,Пустые консервные банки,2002,6LSl2dtVD0AHIUf1hXYqa5
+870,Bilge Pump,rock,track,Up The Nest,2002,6f9ZtZYZy8tZhKKKZDBvLj
+871,Dennis Brown,rock,track,I'll Never Fall In Love Again,2002,4n461SuOsKwNr9PWVnJg8q
+872,sleepy.ab,rock,track,face the music,2002,4nMJaIuRdvCyvOwPVtaDzb
+873,Lukie D,rock,track,More Girls,2002,5Lc3iH4xyqRRJv5BeZPCHM
+874,Scythian,rock,track,Orange Blossom Special,2002,3UwVUjVXZnZOqLEe5Wtz97
+875,Madera Rock,rock,track,Perdido,2002,1T0bV4lOqjj2Q1geqTXjrH
+876,Jad Fair,rock,track,Supreme Beings,2002,4m4EgEOInXywsM6UrYPOQY
+877,Verstärker,rock,track,Ein kleines Herz,2002,05wPkandEGPAfZ1UZ1GDOG
+878,Paul Mark & the Van Dorens,rock,track,Monkey In The Box,2002,3KRi0BXZqSyTSKUoqRkWec
+879,Tenpel,rock,track,Rottes Tag,2002,1U0AV4RkZcf4Trcd9B4d1v
+880,Ray Campi,rock,track,My Prayer,2002,6QOP3Dr8UZXl7XMIlWLfyP
+881,Alms for Shanti,rock,track,Aum Namah Shivay,2002,5MyuGFiOZjNH8Q0rBJjnTi
+882,Sugar Minott,rock,track,King Son,2002,62iQIxw530B5TSmFeU82fG
+883,The Sensations,rock,track,Loving Cajun Style,2002,2h47bbuOaVQc7Ts4Dsth1f
+884,Taxband,rock,track,Farol Fulia,2002,3WMPaqsBfERhA8dVroj09S
+885,Melys,rock,track,Take Me Out,2002,4PJpIYwpOBjWBK9Jt9mE94
+886,Oreo Blue,rock,track,Blues Thang',2002,1bzrHUcUZ7XaXv6rpoLAOj
+887,Moly,rock,track,I Won't Hurt You,2002,4mo3epHBP71VwP5rWOm8zb
+888,Landing,rock,track,I Missed It,2002,56POFbxsyfwrB23MoeFme5
+889,The Story Of,rock,track,"ATP, Pt. 1",2002,6uf20VSHj3vgkxSESFCGTP
+890,Udo Lindenberg,rock,track,Ein Koffer spricht,2002,2hESSC1h7uFqzk6Z0SKQOX
+891,Will Handsome,rock,track,"Lawdy, Miss Clawdy",2002,2BUtHO3PWlfJgxxoeaFLYE
+892,The Harmonica Pocket,rock,track,The Radio,2002,2hwN0VPdf3YpcADzmZMjLT
+893,Headless Chickens,rock,track,Slice,2002,7c7jGfsnSaBjMG4B3azMYr
+894,Eric Schwartz,rock,track,Sunday Blue,2002,5gxFGCarjWfoF6S5ru7b8P
+895,Gualberto Castro,rock,track,Señora Tentacion,2002,004HRJwDRyOhbEZts42yhq
+896,Leslie Smith,rock,track,There's A Place For You,2002,2ts8HMCcmJVekMb1T0ccY8
+897,Iwa K,rock,track,Wanita,2002,2FHhCxGTR5yjzfZzJyHuku
+898,Mc Mabon,rock,track,Tosser O'r Radd Flaenaf,2002,13cXStUHiZpyKozQzqjNrC
+899,Chrome,rock,track,Take It for Me One Time,2002,107WWKBGLpjH2vaz87mI7T
