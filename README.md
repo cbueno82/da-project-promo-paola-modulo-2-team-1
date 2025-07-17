@@ -75,7 +75,7 @@ Este trabajo se desarrolló como parte del módulo 2 del curso de Análisis de D
 
 ---
 
-## 📊 Consultas clave realizadas
+## 📊 Consultas clave a realizar a futuro
 
 * ¿Cuál es el artista con más canciones?
 * ¿Qué género es el mejor valorado?
@@ -88,14 +88,16 @@ Este trabajo se desarrolló como parte del módulo 2 del curso de Análisis de D
 ## 📂 Estructura del repositorio
 
 ```
-📁 data/              → Datos CSV temporales extraídos
-📁 src/               → Scripts Python para extracción y limpieza
-📁 sql/               → Scripts de creación de tablas y consultas SQL
-📁 images/            → Capturas de pantalla del análisis (opcional)
-📄 .env.example       → Plantilla para claves de API
-📄 requirements.txt   → Dependencias necesarias
-📄 README.md          → Este archivo
-📄 main.py            → Script principal del proyecto
+1 carepta con los scriopts de los generos
+1 carpeta con los artistas de cada genero y otras con los resultados de cada genero 
+3 sript limpio
+
+📄 (genero)_artistas.csv   → Artistas de cada genero en .csv
+📄 (genero)_resultados.csv → Canciones, albunes... de cada género en -csv
+📄 README.md               → Este archivo
+📄 lastfm.ipyb             → Script por el que se extrae infomación de la API de LastFM
+📄 1.(genero)             → extracción de datos de cada género de la API de Spotipy
+📄 sql_python.ipynb       → conexión de python con sql
 ```
 
 ---
